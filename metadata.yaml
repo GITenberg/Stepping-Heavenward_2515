@@ -1,0 +1,34 @@
+_repo: Stepping-Heavenward_2515
+creator:
+  author:
+    agent_name: Prentiss, E. (Elizabeth)
+    aliases:
+    - Prentiss, E. P. (Elizabeth Payson)
+    - Prentiss, Elizabeth Payson
+    birthdate: 1818
+    deathdate: 1878
+    gutenberg_agent_id: '948'
+    url: http://www.gutenberg.org/2009/agents/948
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Prentiss
+description: '"How dreadfully old I am getting! Sixteen!" So begins Stepping Heavenward
+  by Elizabeth Prentiss, the journal-like account of a nineteenth century girl who
+  learns, on the path to womanhood, that true happiness can be found in giving oneself
+  for others. "This book is a treasure of both godly and womanly wisdom told with
+  disarming candor and humility, yet revealing a deep heart''s desire to know God,"
+  says noted Christian speaker Elisabeth Elliot. "I do not hesitate to recommend it
+  to men, who need to understand the wives they live with, and to any woman who wants
+  to walk with God."'
+gutenberg_issued: '2001-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+title: Stepping Heavenward
+url: http://www.gutenberg.org/ebooks/2515
