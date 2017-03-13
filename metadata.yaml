@@ -1,5 +1,8 @@
 _repo: Stepping-Heavenward_2515
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Prentiss, E. (Elizabeth)
@@ -19,6 +22,8 @@ description: '"How dreadfully old I am getting! Sixteen!" So begins Stepping Hea
   says noted Christian speaker Elisabeth Elliot. "I do not hesitate to recommend it
   to men, who need to understand the wives they live with, and to any woman who wants
   to walk with God."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2515#Stepping-Heavenward
 gutenberg_issued: '2001-02-01'
 gutenberg_type: Text
 identifiers:
