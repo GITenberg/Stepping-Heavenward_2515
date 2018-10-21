@@ -1,281 +1,35 @@
-The Project Gutenberg Etext of Stepping Heavenward by Mrs. E. Prentiss
+The Project Gutenberg EBook of Stepping Heavenward, by Mrs. E. Prentiss
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
 
 
-Copyright laws are changing all over the world, be sure to check
-the copyright laws for your country before posting these files!!
+Title: Stepping Heavenward
 
-Please take a look at the important information in this header.
-We encourage you to keep this file on your own disk, keeping an
-electronic path open for the next readers.  Do not remove this.
+Author: Mrs. E. Prentiss
+
+Release Date: February, 2001  [Etext #2515]
+[Last updated: March 26, 2017]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK STEPPING HEAVENWARD ***
 
 
-**Welcome To The World of Free Plain Vanilla Electronic Texts**
 
-**Etexts Readable By Both Humans and By Computers, Since 1971**
 
-*These Etexts Prepared By Hundreds of Volunteers and Donations*
 
-Information on contacting Project Gutenberg to get Etexts, and
-further information is included below.  We need your donations.
+
 
 
 Stepping Heavenward
 
 by Mrs. E. Prentiss
 
-February, 2001  [Etext #2515]
-
-
-The Project Gutenberg Etext of Stepping Heavenward by Mrs. E. Prentiss
-******This file should be named 2515.txt or 2515.zip*****
-
-
-Project Gutenberg Etexts are usually created from multiple editions,
-all of which are in the Public Domain in the United States, unless a
-copyright notice is included.  Therefore, we usually do NOT keep any
-of these books in compliance with any particular paper edition.
-
-
-We are now trying to release all our books one month in advance
-of the official release dates, leaving time for better editing.
-
-Please note:  neither this list nor its contents are final till
-midnight of the last day of the month of any such announcement.
-The official release date of all Project Gutenberg Etexts is at
-Midnight, Central Time, of the last day of the stated month.  A
-preliminary version may often be posted for suggestion, comment
-and editing by those who wish to do so.  To be sure you have an
-up to date first edition [xxxxx10x.xxx] please check file sizes
-in the first week of the next month.  Since our ftp program has
-a bug in it that scrambles the date [tried to fix and failed] a
-look at the file size will have to do, but we will try to see a
-new copy has at least one byte more or less.
-
-
-Information about Project Gutenberg (one page)
-
-We produce about two million dollars for each hour we work.  The
-time it takes us, a rather conservative estimate, is fifty hours
-to get any etext selected, entered, proofread, edited, copyright
-searched and analyzed, the copyright letters written, etc.  This
-projected audience is one hundred million readers.  If our value
-per text is nominally estimated at one dollar then we produce $2
-million dollars per hour this year as we release thirty-six text
-files per month, or 432 more Etexts in 1999 for a total of 2000+
-If these reach just 10% of the computerized population, then the
-total should reach over 200 billion Etexts given away this year.
-
-The Goal of Project Gutenberg is to Give Away One Trillion Etext
-Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
-This is ten thousand titles each to one hundred million readers,
-which is only ~5% of the present number of computer users.
-
-At our revised rates of production, we will reach only one-third
-of that goal by the end of 2001, or about 3,333 Etexts unless we
-manage to get some real funding; currently our funding is mostly
-from Michael Hart's salary at Carnegie-Mellon University, and an
-assortment of sporadic gifts; this salary is only good for a few
-more years, so we are looking for something to replace it, as we
-don't want Project Gutenberg to be so dependent on one person.
-
-We need your donations more than ever!
-
-
-All donations should be made to "Project Gutenberg/CMU": and are
-tax deductible to the extent allowable by law.  (CMU = Carnegie-
-Mellon University).
-
-For these and other matters, please mail to:
-
-Project Gutenberg
-P. O. Box  2782
-Champaign, IL 61825
-
-When all other email fails. . .try our Executive Director:
-Michael S. Hart <hart@pobox.com>
-hart@pobox.com forwards to hart@prairienet.org and archive.org
-if your mail bounces from archive.org, I will still see it, if
-it bounces from prairienet.org, better resend later on. . . .
-
-We would prefer to send you this information by email.
-
-******
-
-To access Project Gutenberg etexts, use any Web browser
-to view http://promo.net/pg.  This site lists Etexts by
-author and by title, and includes information about how
-to get involved with Project Gutenberg.  You could also
-download our past Newsletters, or subscribe here.  This
-is one of our major sites, please email hart@pobox.com,
-for a more complete list of our various sites.
-
-To go directly to the etext collections, use FTP or any
-Web browser to visit a Project Gutenberg mirror (mirror
-sites are available on 7 continents; mirrors are listed
-at http://promo.net/pg).
-
-Mac users, do NOT point and click, typing works better.
-
-Example FTP session:
-
-ftp metalab.unc.edu
-login: anonymous
-password: your@login
-cd pub/docs/books/gutenberg
-cd etext90 through etext99 etext00 etext01
-dir [to see files]
-get or mget [to get files. . .set bin for zip files]
-GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
-GET GUTINDEX.ALL [to get a listing of ALL books]
-
-***
-
-**Information prepared by the Project Gutenberg legal advisor**
-
-(Three Pages)
-
-
-***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
-Why is this "Small Print!" statement here?  You know: lawyers.
-They tell us you might sue us if there is something wrong with
-your copy of this etext, even if you got it for free from
-someone other than us, and even if what's wrong is not our
-fault.  So, among other things, this "Small Print!" statement
-disclaims most of our liability to you.  It also tells you how
-you can distribute copies of this etext if you want to.
-
-*BEFORE!* YOU USE OR READ THIS ETEXT
-By using or reading any part of this PROJECT GUTENBERG-tm
-etext, you indicate that you understand, agree to and accept
-this "Small Print!" statement.  If you do not, you can receive
-a refund of the money (if any) you paid for this etext by
-sending a request within 30 days of receiving it to the person
-you got it from.  If you received this etext on a physical
-medium (such as a disk), you must return it with your request.
-
-ABOUT PROJECT GUTENBERG-TM ETEXTS
-This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
-tm etexts, is a "public domain" work distributed by Professor
-Michael S. Hart through the Project Gutenberg Association at
-Carnegie-Mellon University (the "Project").  Among other
-things, this means that no one owns a United States copyright
-on or for this work, so the Project (and you!) can copy and
-distribute it in the United States without permission and
-without paying copyright royalties.  Special rules, set forth
-below, apply if you wish to copy and distribute this etext
-under the Project's "PROJECT GUTENBERG" trademark.
-
-To create these etexts, the Project expends considerable
-efforts to identify, transcribe and proofread public domain
-works.  Despite these efforts, the Project's etexts and any
-medium they may be on may contain "Defects".  Among other
-things, Defects may take the form of incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged
-disk or other etext medium, a computer virus, or computer
-codes that damage or cannot be read by your equipment.
-
-LIMITED WARRANTY; DISCLAIMER OF DAMAGES
-But for the "Right of Replacement or Refund" described below,
-[1] the Project (and any other party you may receive this
-etext from as a PROJECT GUTENBERG-tm etext) disclaims all
-liability to you for damages, costs and expenses, including
-legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
-UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
-INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
-OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
-POSSIBILITY OF SUCH DAMAGES.
-
-If you discover a Defect in this etext within 90 days of
-receiving it, you can receive a refund of the money (if any)
-you paid for it by sending an explanatory note within that
-time to the person you received it from.  If you received it
-on a physical medium, you must return it with your note, and
-such person may choose to alternatively give you a replacement
-copy.  If you received it electronically, such person may
-choose to alternatively give you a second opportunity to
-receive it electronically.
-
-THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
-TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
-PARTICULAR PURPOSE.
-
-Some states do not allow disclaimers of implied warranties or
-the exclusion or limitation of consequential damages, so the
-above disclaimers and exclusions may not apply to you, and you
-may have other legal rights.
-
-INDEMNITY
-You will indemnify and hold the Project, its directors,
-officers, members and agents harmless from all liability, cost
-and expense, including legal fees, that arise directly or
-indirectly from any of the following that you do or cause:
-[1] distribution of this etext, [2] alteration, modification,
-or addition to the etext, or [3] any Defect.
-
-DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
-You may distribute copies of this etext electronically, or by
-disk, book or any other medium if you either delete this
-"Small Print!" and all other references to Project Gutenberg,
-or:
-
-[1]  Only give exact copies of it.  Among other things, this
-     requires that you do not remove, alter or modify the
-     etext or this "small print!" statement.  You may however,
-     if you wish, distribute this etext in machine readable
-     binary, compressed, mark-up, or proprietary form,
-     including any form resulting from conversion by word pro-
-     cessing or hypertext software, but only so long as
-     *EITHER*:
-
-     [*]  The etext, when displayed, is clearly readable, and
-          does *not* contain characters other than those
-          intended by the author of the work, although tilde
-          (~), asterisk (*) and underline (_) characters may
-          be used to convey punctuation intended by the
-          author, and additional characters may be used to
-          indicate hypertext links; OR
-
-     [*]  The etext may be readily converted by the reader at
-          no expense into plain ASCII, EBCDIC or equivalent
-          form by the program that displays the etext (as is
-          the case, for instance, with most word processors);
-          OR
-
-     [*]  You provide, or agree to also provide on request at
-          no additional cost, fee or expense, a copy of the
-          etext in its original plain ASCII form (or in EBCDIC
-          or other equivalent proprietary form).
-
-[2]  Honor the etext refund and replacement provisions of this
-     "Small Print!" statement.
-
-[3]  Pay a trademark license fee to the Project of 20% of the
-     net profits you derive calculated using the method you
-     already use to calculate your applicable taxes.  If you
-     don't derive profits, no royalty is due.  Royalties are
-     payable to "Project Gutenberg Association/Carnegie-Mellon
-     University" within the 60 days following each
-     date you prepare (or were legally required to prepare)
-     your annual (or equivalent periodic) tax return.
-
-WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
-The Project gratefully accepts contributions in money, time,
-scanning machines, OCR software, public domain etexts, royalty
-free copyright licenses, and every other sort of contribution
-you can think of.  Money should be paid to "Project Gutenberg
-Association / Carnegie-Mellon University".
-
-*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
-
-
-
-
-
-
-STEPPING HEAVENWARD.
 
 
 
@@ -442,7 +196,7 @@ through, writing here in the cold. I believe I will say my prayers in
 bed, just for this once. I do not feel sleepy, but I am sure I ought
 not to sit up another moment.
 
-JAN. 30. -Here I am at my desk once more. There is a fire in my room,
+JAN. 30.-Here I am at my desk once more. There is a fire in my room,
 and mother is sitting by it, reading. I can't see what book it is,
 but I have no doubt it is Thomas A Kempis. How she can go on reading
 it so year after year, I cannot imagine. For my part I like something
@@ -467,7 +221,7 @@ little. Poor mother has had trouble enough with me; I know I have
 been cross and unreasonable, and it was all my own fault that I was
 ill. Another time I will do as mother says.
 
-JAN. 31. -How easy it is to make good resolutions, and how easy it is
+JAN. 31.-How easy it is to make good resolutions, and how easy it is
 to break them! Just as I had got so far, yesterday, mother spoke for
 the third time about my exerting myself so much. And just at that
 moment I fainted away, and she had a great time all alone there with
@@ -475,7 +229,7 @@ me. I did not realize how long I had been writing, nor how weak I
 was. I do wonder if I shall ever really learn that mother knows more
 than I do!
 
-Feb. 17. -It is more than a month since I took that cold, and here I
+Feb. 17.-It is more than a month since I took that cold, and here I
 still am, shut up in the house. To be sure the doctor lets me go down
 stairs, but then he won't listen to a word about school. Oh, dear!
 All the girls will get ahead of me.
@@ -489,7 +243,7 @@ pray. But my mind was full of all sorts of things, so I thought I
 would wait till I was in a better frame. At noon I disputed with
 James about the name of an apple. He was very provoking, and said he
 was thankful he had not got such a temper as I had. I cried, and
-mother reproved him for teasing me, saying my ill- ness had left me
+mother reproved him for teasing me, saying my illness had left me
 nervous and irritable. James replied that it had left me where it
 found me, then. I cried a good while, lying on the sofa, and then I
 fell asleep. I don't see as I am any the better for this Sunday, it
@@ -581,7 +335,7 @@ Katherine.-"Of course I don't do it to annoy father or anybody else.
 But if I oversleep myself, it is not my fault."
 
 Mother.-"I would go to bed at eight o'clock rather than be late as
-often as you. How should you like it if I were not down to prayers ?"
+often as you. How should you like it if I were not down to prayers?"
 
 Katherine, muttering.-"Of course that is very different. I don't see
 why I should be blamed for oversleeping any more than James. I get
@@ -604,7 +358,7 @@ crazy to get intimate with her. But I have kept Amelia all to myself.
 To-day I said to her, Amelia, Jane Underhill admires you above all
 things. I have a good mind to let you be as intimate with her as you
 are with me. It will be a great piece of self-denial, but I think it
-is my duty. She is a stranger, and nobody seems to like her much."
+is my duty. She is a stranger, and nobody seems to like her much.
 
 "You dear thing, you!" cried Amelia, kissing me. "I liked Jane
 Underhill the moment I saw her. She has such a sweet face and such
@@ -645,7 +399,7 @@ replied. "Perhaps it has turned my head, and made me too ready to
 believe what other people say." She folded the paper, and put it into
 her pocket. We walked home together, after school, as usual, but
 neither of us spoke a word. And now here I sit, unhappy enough. All
-my resolutions fail But I did not think Amelia would take me at my
+my resolutions fail. But I did not think Amelia would take me at my
 word, and rush after that stuck-up, smirking piece.
 
 May 20.-I seem to have got back into all my bad ways again. Mother is
@@ -687,8 +441,8 @@ opened my eyes at last."
 I am just as horrid as I can be, and that the more I pray the worse I
 grow."
 
-That is not true, dear," she replied; "go on praying-pray without
-ceasing.
+"That is not true, dear," she replied; "go on praying-pray without
+ceasing."
 
 I sat pulling my handkerchief this way and that, and at last rolled
 it up into a ball and threw it across the room. I wished I could toss
@@ -703,7 +457,7 @@ His gifts. He only says, 'Ask!'"
 wish there was some easy way of growing good. In fact I should like
 to have God send a sweet temper to me just as He sent bread and meat
 to Elijah. I don't believe Elijah had to kneel down and pray for
-them.
+them."
 
 
 
@@ -786,7 +540,9 @@ I shook my head sorrowfully enough.
 "Let us then try the last test. You know you love your mother because
 you try to do things to please her. That is to do what you know she
 wishes you to do? Very well. Have you never tried to do anything God
-wishes you to do?" "Oh yes; often. But not so often as I ought."
+wishes you to do?"
+
+"Oh yes; often. But not so often as I ought."
 
 "Of course not. No one does that. But come now, why do you try to do
 what you think will please Him? Because it is easy? Because you like
@@ -794,7 +550,7 @@ to do what He likes rather than what you like yourself?"
 
 I tried to think, and got puzzled.
 
-"Never mind," said Dr. Cabot, " I have come now to the point I was
+"Never mind," said Dr. Cabot, "I have come now to the point I was
 aiming at. You cannot prove to yourself that you love God by
 examining your feelings towards Him. They are indefinite and they
 fluctuate. But just as far as you obey Him, just so far, depend upon
@@ -803,7 +559,7 @@ beings to prefer His pleasure to our own, or to follow His way
 instead of our own way, and nothing, nothing but love to Him can or
 does make us obedient to Him."
 
-"Couldn't we obey Him from fear ?"Amelia now asked. She had been
+"Couldn't we obey Him from fear?" Amelia now asked. She had been
 listening all this time in silence.
 
 "Yes; and so you might obey your mother from fear, but only for a
@@ -829,7 +585,7 @@ God, and yet feel as stupid as I do when I think of Him. Still, I am
 determined to do one thing, and that is to pray, regularly instead of
 now and then, as I have got the habit of doing lately.
 
-July 25.- School has closed for the season. I took the first prize
+July 25.-School has closed for the season. I took the first prize
 for drawing, and my composition was read aloud on examination day,
 and everybody praised it. Mother could not possibly help showing, in
 her face, that she was very much pleased. I am pleased myself. We are
@@ -871,7 +627,7 @@ screamed yet more. She wanted to come and wouldn't let herself come.
 I almost hated her when I saw her act so, and now I am behaving ten
 times worse and I am just as miserable as I can be.
 
-July 29.- Amelia has been here. She has had her talk with Dr. Cabot
+July 29.-Amelia has been here. She has had her talk with Dr. Cabot
 and is perfectly happy. She says it is so easy to be a Christian! It
 may be easy for her; everything is. She never has any of my dreadful
 feelings, and does not understand them when I try to explain them to
@@ -890,7 +646,7 @@ never happy except when every moment is occupied. However, I do not
 study all the time, by any means. Mrs. Gordon grows more and more
 fond of me, and has me there to dinner or to tea continually. She has
 a much higher opinion of me than mother has, and is always saying the
-sort bf things that make you feel nice. She holds me up to Amelia as
+sort of things that make you feel nice. She holds me up to Amelia as
 an example, begging her to imitate me in my fidelity about my
 lessons, and declaring there is nothing she so much desires as to
 have a daughter bright and original like me. Amelia only laughs, and
@@ -942,8 +698,8 @@ given up, I can spare it to you. For girls like pin-money, I know,
 and you may spend this just as you please."
 
 I was delighted. I want to take more drawing-lessons, but did not
-feel sure he could afford it. Besides-I am a little ashamed to write
-it down-I knew somebody had been praising me or father would not have
+feel sure he could afford it. Besides--I am a little ashamed to write
+it down--I knew somebody had been praising me or father would not have
 seemed so fond of me. I wondered who it was, and felt a good deal
 puffed up. "After-all," I said to myself, "some people like me if I
 have got my faults." I threw my arms around his neck and kissed him,
@@ -964,7 +720,7 @@ speak a word.
 "Oh! Mr. Freeman, what is it?" I cried out. "Has anything happened to
 father? Is he hurt? Where is he?"
 
-"He is in the carriage," he said. We are taking him home. He has had
+"He is in the carriage," he said. "We are taking him home. He has had
 a fall."
 
 Then we went on in silence. The sailors were carrying father in as we
@@ -1031,7 +787,7 @@ She only smiled a little, but said nothing.
 
 She smiled again, and said she had nothing to "flare up" about.
 
-"Then I shall do it for you!" I cried. To hear that namby-pamby
+"Then I shall do it for you!" I cried. "To hear that namby-pamby
 woman, who is about as capable of understanding you as an old cat,
 talking about your being firm! You see what you get by being quiet
 and patient! People would like you much better if you refused to be
@@ -1151,7 +907,7 @@ III
 July 16.
 
 My school-days are over! I have come off with flying colors, and
-mother is pleased at my success. I said to her today that I should
+mother is pleased at my success. I said to her to-day that I should
 now have time to draw and practice to my heart's content.
 
 "You will not find your heart content with either," she said.
@@ -1165,7 +921,7 @@ get out of life than you have yet found."
 so far."
 
 Amelia is now on such terms with Jenny Underhill that I can hardly
-see one without seeing the other After the way in which I have loved
+see one without seeing the other. After the way in which I have loved
 her, this seems rather hard. Sometimes I am angry about it, and
 sometimes grieved. However, I find Jenny quite nice. She buys all the
 new books and lends them to me. I wish I liked more solid reading;
@@ -1208,7 +964,7 @@ Sunday, Aug. 5.-Jenny's brother has been at our church all day. He
 walked home with me this afternoon. Mother, after being up all night
 with Mrs. Jones and her baby, was not able to go out.
 
-Dr Cabot preaches as if we had all got to die pretty soon, or else
+Dr. Cabot preaches as if we had all got to die pretty soon, or else
 have something almost as bad happen to us. How can old people always
 try to make young people feel uncomfortable, and as if things
 couldn't last?
@@ -1241,7 +997,7 @@ sending for me, though Mr. Underhill had proposed to see me home
 himself. So he stayed after I left. It was not quite the thing in
 him, for he must see that Amelia is absolutely crazy about him.
 
-Sept. 28-We met at Jenny's this evening. Amelia had a bad headache
+Sept. 28.-We met at Jenny's this evening. Amelia had a bad headache
 and could not come. Jenny idled over her lessons, and at last took a
 book and began to read. I studied awhile with Mr. Underhill. At last
 he said, scribbling something on a bit of paper:
@@ -1350,10 +1106,10 @@ convenient to us!"
 
 And I wrote back.
 
-"You dear old horrid thing How can you be so selfish?"
+"You dear old horrid thing. How can you be so selfish?"
 
 Jan. 15, 1833.-I have been trying to think whether I am any happier
-today than I was at this time a year ago. If I am not, I suppose it
+to-day than I was at this time a year ago. If I am not, I suppose it
 is the tantalizing way in which I am placed in regard to Charley. We
 have so much to say to each other that we can't say before mother,
 and that we cannot say in writing, because a correspondence is one of
@@ -1377,7 +1133,7 @@ Then mother burst out,
 "Oh, my child," she said, "before it is too late, do be persuaded by
 me to give up this whole thing. I shrink from paining or offending
 you, but it is my duty, as your mother, to warn you against a
-marriage that will make shipwreck of your happiness."'
+marriage that will make shipwreck of your happiness."
 
 "Marriage!" I fairly shrieked out. That is the last thing I have ever
 thought of. I felt a chill creep over me. All I had wanted was to
@@ -1436,7 +1192,7 @@ Chapter 4
 
 IV
 
-Nov.2.
+Nov. 2.
 
 I really think I am sick and going to die. Last night I raised a
 little blood. I dare not tell mother, it would distress her so, but I
@@ -1467,7 +1223,7 @@ self-sacrifice grew every moment more beautiful in my eyes, till at
 last I felt an almost joyful triumph in writing to poor Charley, and
 tell him what I had resolved to do. This is my letter:
 
-My Dear, Dear Charley -I dare not tell you what it costs me to say
+My Dear, Dear Charley--I dare not tell you what it costs me to say
 what I am about to do; but I am sure you know me well enough by this
 time believe that it is only because your happiness is far more
 precious to me than my own, that I have decided to write you this
@@ -1491,7 +1247,7 @@ I did not sleep at all that night. Early on Monday I sent off my
 letter; and my heart beat so hard all day that I was tired and faint.
 Just at dark his answer came; I can copy it from memory.
 
-Dear Kate: -What a generous, self-sacrificing little thing you are! I
+Dear Kate:--What a generous, self-sacrificing little thing you are! I
 always thought so, but now you have given me a noble proof of it. I
 will own that I have been disappointed to find your constitution so
 poor, and that it has been very dull sitting and hearing you cough,
@@ -1509,7 +1265,7 @@ sincere friend,
 
 Charles Underhill
 
-Jan. I, 1834.-Let me finish this story If I can.
+Jan. 1, 1834.-Let me finish this story If I can.
 
 My first impulse after reading his letter was to fly to mother, and
 hide away forever in her dear, loving arms.
@@ -1517,7 +1273,7 @@ hide away forever in her dear, loving arms.
 But I restrained myself, and with my heart beating so that I could
 hardly hold my pen, I wrote:
 
-Mr.. Underhill Sir-The scales have fallen from my eyes, and I see you
+Mr. Underhill Sir--The scales have fallen from my eyes, and I see you
 at last just as you are. Since my note to you on Sunday last, I have
 had a consultation of physicians, and they all agree that my disease
 is not of an alarming character, and that I shall soon recover. But I
@@ -1570,7 +1326,7 @@ written him when I was in passion. No wonder he is thankful that he
 free from such a vixen. But, oh the provocation was terrible!
 
 I have made up my mind never to tell a human soul about this affair.
-It will be so high- minded and honorable to shield him thus from the
+It will be so high-minded and honorable to shield him thus from the
 contempt he deserves. With all my faults I am glad that there is
 nothing mean or little about me!
 
@@ -1589,7 +1345,7 @@ nature, had so much sensibility, and such a constitutional aversion
 to seeing suffering, that for her part she could not blame him.
 
 "It is such a pity you had not had your lungs examined before you
-wrote that first letter, she went on. "But you are so impulsive! If
+wrote that first letter," she went on. "But you are so impulsive! If
 you had only waited you would be engaged to Charley still!"
 
 "I am thankful I did not wait," I cried, angrily. "Do, Amelia, drop
@@ -1608,7 +1364,7 @@ as a Jew."
 I wonder if mother knew it when she opposed our engagement so
 strenuously.
 
-Jan. 31.-1 have asked her, and she said she did. Mr. Underhill told
+Jan. 31.-I have asked her, and she said she did. Mr. Underhill told
 her his intentions when he urged her consent to the engagement. Dear
 mother! How unworldly, how unselfish she is!
 
@@ -1623,7 +1379,7 @@ thing is so disgraceful that I should be a stock or a stone not to
 resent it.
 
 Feb. 5.-After yesterday's passion of grief, shame, and anger, I feel
-perfectly stupid and .languid. Oh, that I was prepared for a better
+perfectly stupid and languid. Oh, that I was prepared for a better
 world, and could fly to it and be at rest!
 
 Feb. 6.-Now that it is all over, how ashamed I am of the fury I have
@@ -1689,7 +1445,7 @@ you will believe it, dear old Journal, the tears came into her eyes,
 and she said:
 
 "You are one of the Lord's beloved ones, though perhaps you do not
-know it"
+know it."
 
 I repeated again to myself those sweet, mysterious words, and then I
 tried to think what I could do for Him. But I could not think of
@@ -1708,7 +1464,7 @@ ashamed and sorry I was that I could not control myself the other
 day. Then I wrote a long letter to James. I have been very careless
 about writing to him.
 
-Then I began to hem those handkerchiefs mother -asked me to finish a
+Then I began to hem those handkerchiefs mother asked me to finish a
 month ago. But I could not think of anything to do for God. I wish I
 could. It makes me so happy to think that all this time, while I was
 caring for nobody but myself, and fancying He must almost hate me, He
@@ -1730,7 +1486,7 @@ God. And I cannot think of anything unless it is to go on a mission.
 And mother would never let me do that. She thinks girls with delicate
 health are not fit for such work."
 
-"At all events I would not go to-day," he replied. Meanwhile do
+"At all events I would not go to-day," he replied. "Meanwhile do
 everything you do for Him who has loved you and given Himself for
 you."
 
@@ -1741,7 +1497,7 @@ Dinner was ready, and as I sat down to the table, I said to myself:
 Then I remembered the text about doing all for the glory of God, even
 in eating and drinking; but I do not understand it at all.
 
-Feb. 19.It has seemed to' me for several days that it must be that I
+Feb. 19.-It has seemed to me for several days that it must be that I
 really do love God, though ever so little. But it shot through my
 mind to-day like a knife, that it is a miserable, selfish love at the
 best, not worth my giving, not worth God's accepting. All my old
@@ -1774,7 +1530,7 @@ moments."
 
 "You are wrong in thinking that most persons have this advantage over
 you. I believe that the children of Christian parents, who have been
-judiciously trained, rarely can 'point to any day or hour when they
+judiciously trained, rarely can point to any day or hour when they
 began to live this new life. The question is not, do you remember, my
 child, when you entered this world, and how! It is simply this, are
 you now alive and an inhabitant thereof? And now it is my turn to ask
@@ -1853,7 +1609,7 @@ and modify all my natural tastes and desires? Oh, I do love so to be
 happy! I do so hate to suffer! The very thought of being sick, or of
 being forced to nurse sick people, with all their cross ways, and of
 losing my friends, or of having to live with disagreeable people,
-make's me shudder. I want to please God, and to be like Him. I
+makes me shudder. I want to please God, and to be like Him. I
 certainly do. But I am so young, and it is so natural to want to have
 a good time! And now I am in for it I may as well tell the whole
 story. When I read the lives of good men and women who have died and
@@ -1969,7 +1725,7 @@ though I pretend to do it."
 
 "Oh, yes, very much annoyed."
 
-"Then, dear Katy, suppose your first act of heroism tomorrow should
+"Then, dear Katy, suppose your first act of heroism to-morrow should
 be the gratifying your mother in these little things, little though
 they are. Surely your first duty, next to pleasing God, is to please
 your mother, and in every possible way to sweeten and beautify her
@@ -1977,7 +1733,7 @@ life. You may depend upon it that a life of real heroism and
 self-sacrifice must begin and lay its foundation in this little
 world, wherein it learns its first lesson and takes its first steps."
 
-"And do you really think that God notices such little things ?"
+"And do you really think that God notices such little things?"
 
 "My dear child, what a question! If there is any one truth I would
 gladly impress on the mind of a you Christian, it is just this, that
@@ -1994,8 +1750,8 @@ with her great host of children, she must have her hands full.
 March 25.-Mother is very much astonished to see how nicely I am
 keeping things in order. I was flying about this morning, singing,
 and dusting the furniture, when she came in and began, "He that is
-faithful in that which is least "-but I ran at her my brush, and
-would not let her finish. really, really don't deserve to be praised.
+faithful in that which is least"-but I ran at her my brush, and
+would not let her finish. I really, really don't deserve to be praised.
 For I have been thinking that, if it is true that God notices every
 little thing we do to please Him, He must also notice every cross
 word we speak, every shrug of the shoulders, every ungracious look,
@@ -2039,7 +1795,7 @@ V.
 
 APRIL 6.
 
-I have taken it at last. I would not take one be fore, because I knew
+I have taken it at last. I would not take one before, because I knew
 I could not teach little children how to love God, unless I loved Him
 myself. My class is perfectly delightful. There are twelve dear
 little things in it, of all ages between eight and nine. Eleven are
@@ -2087,7 +1843,7 @@ address to the children. Perhaps it was a little above their
 comprehension, but it showed a good deal of thought and earnestness.
 I meant to ask who he was, but forgot it.
 
-This has been a delightful Sunday. I have really feasted on .Dr.
+This has been a delightful Sunday. I have really feasted on Dr.
 Cabot's preaching. But I am satisfied that there is something in
 religion I do not yet comprehend. I do wish I positively knew that
 God had forgiven and accepted me.
@@ -2162,8 +1918,8 @@ its death-blow."
 
 "Meanwhile, in, punishing yourself you punish your poor innocent
 friends," he said laughing. "No child, go on singing; God has given
-you this power of entertaining and, gratifying your friends. But
-,pray without ceasing, that you may sing from pure benevolence and
+you this power of entertaining and, gratifying your friends. But,
+pray without ceasing, that you may sing from pure benevolence and
 not from pure self-love."
 
 "Why, do people pray about such things as that?" I cried.
@@ -2178,7 +1934,7 @@ AUG. 3.-This morning I took great delight in praying for my little
 scholars, and went to Sunday-school as on wings. But on reaching my
 seat, what was my horror to find Maria Perry there!
 
-Oh, your seat is changed," said she. "I am to have half your class,
+"Oh, your seat is changed," said she. "I am to have half your class,
 and I like this seat better than those higher up. I suppose you don't
 care?"
 
@@ -2190,7 +1946,7 @@ Mr. Williams about it directly."
 just as pleasant to me to have pretty children to teach as it is to
 you. Mr. Williams said he had no doubt you would be glad to divide
 your class with me, as it is so large; and I doubt if you gain
-anything by speaking to him.
+anything by speaking to him."
 
 There was no time for further discussion, as school was about to
 begin. I went to my new seat with great disgust, and found it very
@@ -2210,7 +1966,7 @@ should have been greatly elated by these compliments, but for the
 display I made of myself to Maria Perry on Sunday. Oh, that I could
 learn to bridle my unlucky tongue!
 
-JAN.15, 1835.-To-day I am twenty. That sounds very old, yet I feel
+JAN. 15, 1835.-To-day I am twenty. That sounds very old, yet I feel
 pretty much as I did before. I have begun to visit some of mother's
 poor folks with her, and am astonished to see how they love her, how
 plainly they let her talk to them. As a general rule, I do not think
@@ -2277,7 +2033,7 @@ one must either stop reading the Bible altogether, or else leave off
 spending one's whole time in just doing easy pleasant things one
 likes to do.
 
-JAN. 20.-The little Shannon girl came, and I washed her face and.
+JAN. 20.-The little Shannon girl came, and I washed her face and
 hands, brushed out her hair and made it curl in lovely golden
 ringlets all round her sweet face, and carried her in great triumph
 to mother.
@@ -2312,15 +2068,15 @@ she has one of her worst colds. She then asked me to go in her place.
 I turned up my nose at the bare thought, though I dare say it turns
 up enough on its own account.
 
-"Oh, mother!" I said, reproachfully that dirty old woman!"
+"Oh, mother!" I said, reproachfully "that dirty old woman!"
 
 Mother made no answer, and I sat down at the piano, and played a
 little. But I only played discords.
 
-"Do you think it is my duty to run after such horrid old women ?" I
+"Do you think it is my duty to run after such horrid old women?" I
 asked mother, at last.
 
-"I think, dear, you must make your own duties, she said kindly. "I
+"I think, dear, you must make your own duties," she said kindly. "I
 dare say that at your age I should have made a great deal out of my
 personal repugnance to such a woman as Susan, and very little out of
 her sufferings."
@@ -2341,9 +2097,9 @@ dismal den where she sleeps, and lay all night in great distress with
 some serious internal injury. I found her groaning and complaining in
 a fearful way.
 
-"Are you in such pain ?" I asked, as kindly as I could.
+"Are you in such pain?" I asked, as kindly as I could.
 
-"It isn't the pain," she said, "it isn't the pain. Its the way my
+"It isn't the pain," she said, "it isn't the pain. It's the way my
 nice bed is going to wreck and ruin, and the starch all getting out
 of my frills that I fluted with my own hands. And the doctor's bill,
 and the medicines; oh, dear, dear, dear!"
@@ -2360,13 +2116,13 @@ who seemed to have charge of her:
 Nobody knew.
 
 "I will send a nurse, then," he said. "But some one else will be
-needed also,' he added, looking at me.
+needed also," he added, looking at me.
 
 "I will stay," I said. But my heart died within me.
 
 The doctor took me aside.
 
-"Her injuries are very serious," be said." If she has any friends,
+"Her injuries are very serious," he said. "If she has any friends,
 they ought to be sent for."
 
 "You don't mean that she is going to die?" I asked.
@@ -2403,7 +2159,7 @@ sent for."
 
 "I've been my own best friend," she returned. "Who'd have raked and
 scraped and hoarded and counted for Susan Green if I hadn't ha' done
-it? I ve got enough to make me comfortable as long as I live, and
+it? I've got enough to make me comfortable as long as I live, and
 when I lie on my dying bed."
 
 "But you can't carry it with you," I said. This highly original
@@ -2419,7 +2175,7 @@ But I saw now that the thin, yellow, hard face had changed sadly. She
 fixed her two little black eyes on me, evidently startled by the
 expression of my face.
 
-"Look here, child, I ain't hurt to speak of, am I?
+"Look here, child, I ain't hurt to speak of, am I?"
 
 "The doctor says you are hurt seriously."
 
@@ -2450,17 +2206,17 @@ on you!"
 She looked at me, bewildered, but yet as if the truth had reached her
 at last.
 
-"Pray yourself!" she said, eagerly. "I don't' know how. I can't
-think. Oh, my time's come my time's come!; And I ain't ready! I ain't
+"Pray yourself!" she said, eagerly. "I don't know how. I can't
+think. Oh, my time's come my time's come! And I ain't ready! I ain't
 ready! Get down on your knees and pray with all your, might and
 main."
 
 And I did; she holding my wrist tightly in hard hand. All at once I
 felt her hold relax. After that the next thing I knew I was lying on
-the and somebody was dashing water in my face.
+the floor and somebody was dashing water in my face.
 
 It was the nurse. She had come at last, and found me by the side of
-the bed, where I had fallen, ,and had been trying to revive me ever
+the bed, where I had fallen, and had been trying to revive me ever
 since. I started up and looked about me. The nurse was closing
 Susan's eyes in a professional way, and performing other little
 services of the sort. The room wore an air of perfect desolation. The
@@ -2484,8 +2240,8 @@ Feb 27.-I have learned one thing by yesterday's experience that is
 worth knowing. It is this: duty looks more repelling at a distance
 than when fairly faced and met. Of course I have read the lines,
 
-"Nor know we anything so fair
-As is the smile upon thy face;"
+    "Nor know we anything so fair
+     As is the smile upon thy face;"
 
 but I seem to be one of the stupid sort, who never apprehend a thing
 till they experience it. Now, however, I have seen the smile, and
@@ -2526,7 +2282,7 @@ incomplete, and He will gradually lead you into clear and open
 vision, if you will allow Him to do it. I say gradually, because I
 believe this to be His usual method, while I do not deny that there
 are cases where light suddenly bursts in like a flood. To return to
-the blind man When Jesus found that his cure was not complete, He put
+the blind man. When Jesus found that his cure was not complete, He put
 His hands again upon his eyes, and made him look up; and he was
 restored, and saw every man clearly. Now this must be done for you;
 and in order to have it done you must go to Christ Himself, not to
@@ -2563,12 +2319,12 @@ asking the question:
   Am I His or am I not?'
 
 "I beg you, my dear child, if you are doing this aimless, useless
-work, to stop short at once. Life is to precious to spend in a
+work, to stop short at once. Life is too precious to spend in a
 tread-mill.. Having been pardoned by your God and Saviour, the next
 thing you have to do is to show your gratitude for this infinite
 favor by consecrating yourself entirely to Him, body, soul, and
 spirit. This is the least you can do. He has bought you with a price,
-and you are no longer, your own. 'But,' you may reply, this is
+and you are no longer your own. 'But,' you may reply, 'this is
 contrary to my nature. I love my own way. I desire ease and pleasure;
 I desire to go to heaven, to be carried thither on a bed of flowers.
 Can I not give myself so far to God as to feel a sweet sense of peace
@@ -2583,12 +2339,12 @@ back the rest. He asks, and He has a right to ask, for all you have
 and all you are. And if you shrink from what is involved in such a
 surrender, you should fly to Him at once and never rest till He has
 conquered this secret disinclination to give to Him as freely and as
-fully as He has given to you It is true that such an act of
+fully as He has given to you. It is true that such an act of
 consecration on your part may involve no little future discipline and
 correction. As soon as you become the Lord's by your own deliberate
 and conscious act, He will begin that process of sanctification which
 is to make you holy as He is holy, perfect as He is perfect. He
-becomes at once ,your physician as well as your dearest and best
+becomes at once, your physician as well as your dearest and best
 Friend, but He will use no painful remedy that can be avoided.
 Remember that it is His will that you should be sanctified, and that
 the work of making you holy is His, not yours. At the same time you
@@ -2597,9 +2353,9 @@ to avoid laying hindrances in His way, and you are to exercise faith
 in Him as just as able and just as willing to give you sanctification
 as He was to give you redemption. And now if you ask how you may know
 that you have truly consecrated yourself to Him, I reply, observe
-every in indication of His will concerning you, no matter how
+every indication of His will concerning you, no matter how
 trivial, and see whether you at once close in with that will. Lay
-down this principle as a law- God does nothing arbitrary. If He takes
+down this principle as a law--God does nothing arbitrary. If He takes
 away your health, for instance, it is because He has some reason for
 doing so; and this is true of everything you value; and if you have
 real faith in Him you will not insist on knowing this reason. If you
@@ -2641,7 +2397,7 @@ life, rather than those that merely amuse.
 
 "You can will to use every means of grace appointed by God.
 
-"You can' will to spend much time in prayer, without regard to your
+"You can will to spend much time in prayer, without regard to your
 frame at the moment.
 
 "You can will to prefer a religion of principle to one of mere
@@ -2678,7 +2434,7 @@ for me what He did for the blind man-put His hands yet again upon my
 eyes and make me to see clearly. And I will.
 
 MARCH, 30.-Yes, I have prayed, and He has heard me. I see that I have
-no right to live for myself, and that I must live for. Him. I have
+no right to live for myself, and that I must live for Him. I have
 given myself to Him as I never did before, and have entered, as it
 were, a new world. I was very happy when I began to believe in His
 love for me, and that He had redeemed me. But this new happiness is
@@ -2688,7 +2444,7 @@ which has, hitherto, been my great aim.
 March 31.-The more I pray, and the more I read the Bible, the more I
 feel my ignorance. And the more earnestly I desire holiness, the more
 utterly unholy I see myself to be. But I have pledged myself to the
-Lord, and I must pay my vows, cost what in may.
+Lord, and I must pay my vows, cost what it may.
 
 I have begun to read Taylor's "Holy Living and Dying." A month ago I
 should have found it a tedious, dry book. But I am reading it with a
@@ -2722,16 +2478,16 @@ reason for declining. But somehow she got it out of me.
 to mortify one's natural inclinations, and to live entirely for Him."
 
 "God is then a hard Master, who allows his children no liberty," she
-replied. "Now let us see where this theory will lead you. In. the
+replied. "Now let us see where this theory will lead you. In the
 first place you must shut your eyes to all the beautiful things He
 has made. You must shut your eyes to all the harmonies He has
 ordained. You must shut your heart against all sweet human
 affections. You have a body, it is true, and it may revolt at such
 bondage--"
 
-We are told to keep under the body," I interrupted.
+"We are told to keep under the body," I interrupted.
 
-"Oh, mother, don't hinder me! You know my love for music is. a
+"Oh, mother, don't hinder me! You know my love for music is a
 passion and that it is my snare and temptation. And how can I spend
 my whole time in reading the Bible and praying, if I go on with my
 drawing? It may do for other people to serve both God and Mammon, but
@@ -2766,7 +2522,7 @@ Mother was right in warning me against giving them up. Maria Kelley
 is teaching me to paint in oil-colors, and says I have a natural gift
 for it.
 
-APRIL 13.Mother asked me to go to church with her last evening, and I
+APRIL 13.-Mother asked me to go to church with her last evening, and I
 said I did not want to go. She looked surprised and troubled.
 
 "Are you not well, dear?" she asked.
@@ -2784,7 +2540,7 @@ give you, fully and freely."
 despondently. "And so I have gone back to my music and everything
 else."
 
-"'Here is just the rock upon which you split," she returned. "You
+"Here is just the rock upon which you split," she returned. "You
 speak of going back to your music as if that implied going away from
 God. You rush from one extreme to another. The only true way to live
 in this world, constituted just as we are, is to make all our
@@ -2800,7 +2556,7 @@ which we could make no mistake!"
 "I think His rules are plain," she replied. "And some liberty of
 action He must leave us, or we should become mere machines. I think
 that those who love Him, and wait upon Him day by day, learn His will
-almost imperceptibly, and need not go astray.
+almost imperceptibly, and need not go astray."
 
 "But, mother, music and drawing are sharp-edged tools in such hands
 as mine. I cannot be moderate in my use of them. And the more I
@@ -2847,7 +2603,7 @@ see with what sweet unconsciousness she carries her religion into
 every detail. I am sure it must do me good to be here; and yet, if I
 am growing better how slowly, how slowly, it is! Somebody has said
 that 'our course heavenward is like the plan of the zealous pilgrims
-of old, who for every three steps forward, took one backward."
+of old, who for every three steps forward, took one backward.'
 
 APRIL 30.-Aunty's baby, my dear father's namesake, and hitherto the
 merriest little fellow I ever saw, was taken sick last night, very
@@ -2856,7 +2612,7 @@ positively what was the matter, but this morning pronounced it
 scarlet fever. The three youngest have all come down with it to-day.
 If they were my children, I should be in a perfect worry and flurry.
 Indeed, I am as it is. But Aunty is as bright and cheerful as ever.
-She flies from one to another, and .keeps up their spirits with her
+She flies from one to another, and keeps up their spirits with her
 own gayety. I am mortified to find that at such a time as this I can
 think of myself, and that I find it irksome to be shut up in
 sick-rooms, instead of walking, driving, visiting, and the like. But,
@@ -2864,8 +2620,8 @@ as Dr. Cabot says, I can now choose to imitate my Master, who spent
 His whole life in doing good, and I do hope, too, to be of some
 little use to Aunty, after her kindness to me.
 
-MAY 1.- The doctor says the children are doing as well as, could be
-expected. He made a short visit this .morning, as it is Sunday. If I
+MAY 1.-The doctor says the children are doing as well as, could be
+expected. He made a short visit this morning, as it is Sunday. If I
 had ever seen him before I should say I had some unpleasant
 association with him. I wonder Aunty employs such a great clumsy man.
 But she says he is good, and very skillful. I wish I did not take
@@ -2883,7 +2639,7 @@ time. I sing to them, tell them stories, build block-houses, and
 relieve Aunty all I can. Dull and poky as the doctor is, I am not
 afraid of him, for he never notices anything I say or do, so while he
 is holding solemn consultations with Aunty in one corner, I can sing
-and .talk all sorts of nonsense to my little pets in mine. What
+and talk all sorts of nonsense to my little pets in mine. What
 fearful black eyes he has, and what masses of black hair!
 
 This busy life quite suits me, now I have got used to it. And it
@@ -2891,7 +2647,7 @@ sweetens every bit of work to think that I am doing it in humble,
 far-off, yet real imitation of Jesus. I am indeed really and truly
 happy.
 
-MAY 14-It is now two weeks since little Raymond was taken sick, and I
+MAY 14.-It is now two weeks since little Raymond was taken sick, and I
 have lived in the nursery all the time, though Aunty has tried to
 make me go out. Little Emma was taken down to-day, though she has
 been kept on the third floor all the time I feel dreadfully myself.
@@ -2908,7 +2664,7 @@ up this journal first. I would not have any one see it for the world.
 
 MAY 24.-Dr. Elliott asked me on Sunday morning a week ago if I still
 felt well. For answer I behaved like a goose, and burst out crying.
-Aunty; looked more anxious than I have seen her look yet, and
+Aunty looked more anxious than I have seen her look yet, and
 reproached herself for having allowed me to be with the children. She
 took me by one elbow, and the doctor by the other, and they marched
 me off to my own room, where I was put through the usual routine on
@@ -2918,9 +2674,9 @@ a short, stiff little visit, gave me a powder, and said thought I
 should soon be better.
 
 I had two such visits from him the next day, when I began to feel
-quite like myself again, and in spite of his grave; staid deportment,
+quite like myself again, and in spite of his grave, staid deportment,
 could not help letting my good spirits run away with me in a style
-that evidently shocked him. He says persons nursing 'scarlet fever
+that evidently shocked him. He says persons nursing scarlet fever
 often have such little attacks as mine; indeed every one of the
 servants have had a sore throat and headache.
 
@@ -2956,7 +2712,7 @@ or at least under that pretense, but I really believe he comes
 because he has got the habit of coming, and because he admires Aunty
 so much. She has a real affection for him, and is continually asking
 me if I don't like this and that quality in him which I can't see at
-all. We be gin to drive out again. The weather is, very warm, but I
+all. We begin to drive out again. The weather is, very warm, but I
 feel perfectly well.
 
 JUNE 2.-After the children's dinner to-day I took care of them while
@@ -2972,13 +2728,13 @@ pulled down and flying every way; when in marched the doctor. I
 started up and came to life quickly enough when I heard his step,
 looking red and angry, no doubt.
 
-I should think you might have knocked, Dr. Elliott," I said, with
+"I should think you might have knocked, Dr. Elliott," I said, with
 much displeasure.
 
 "I ask your pardon; I knocked several times," he returned. "I need
 hardly ask how my little patients are."
 
-"No," I replied, still ruffled, arid making desperate efforts to get
+"No," I replied, still ruffled, and making desperate efforts to get
 my hair into some sort of order. "They are as well as possible."
 
 "I came a little earlier than usual to-day," he went on, "because I
@@ -3027,14 +2783,14 @@ which he took in both his.
 "Indeed, Dr. Elliott, though you not be able to believe it, I am
 trying to do right all the time!"
 
-"1 do believe it," he said earnestly.
+"I do believe it," he said earnestly.
 
 "Then tell me that you forgive me!"
 
 "If I once begin, I shall be tempted to tell something else," he
 said, looking me through and through with those great dusky eyes.
 "And I will tell it," he went on, his grasp on my hands growing
-firmer-"'It is easy to forgive when one loves." I pulled my hands
+firmer-"It is easy to forgive when one loves." I pulled my hands
 away, and burst out crying again.
 
 "Oh, Dr. Elliott this is dreadful!" I said. "You do not, you cannot
@@ -3123,7 +2879,7 @@ hate prigs who keep their wives in leading-strings. I do not mean to
 marry any one, but if I should be left to such a piece of folly, it
 must be to one who will take me for better for worse; just as I am,
 and not as a wild plant for him to prune till he has got it into a
-shape to suit him. now, Aunty, promise me one thing. Never mention
+shape to suit him now, Aunty, promise me one thing. Never mention
 Dr. Elliott's name to me again."
 
 "I shall make no such promise," she replied, laughing. "I like him,
@@ -3175,7 +2931,7 @@ mute submission, like medicine; so many doses, so many times a day.
 An agreeable interlude of needlework was afforded, and Dorcas-like,
 many were the garments that resulted for the poor. Give her the very
 eyes out of your head, cut off your right hand for her if you choose,
-but don't expect a gush of enthusiasm that would crumple you collar;
+but don't expect a gush of enthusiasm that would crumple your collar;
 she would as soon strangle herself as run headlong to embrace you. If
 she has any passions or emotions, they are kept under; but who asks
 for passion in blanc-mange, or seeks emotion in a comfortable
@@ -3212,7 +2968,7 @@ with the unsettled state you are in?"
 habits; that's all. Still if I knew Dr. Elliott did not care much,
 and was beginning to forget it, I dare say I should feel better."
 
-If you were perfectly sure that you could never return his
+"If you were perfectly sure that you could never return his
 affection," she said, "you were quite right in telling him so at
 once; But if you had any misgivings on the subject, it would have
 been better to wait, and to ask God to direct you."
@@ -3222,7 +2978,7 @@ headlong style I settled one of the most weighty questions of my
 life, without reflection, without so much as one silent appeal to
 God, to tell me how to act. And now I have forever repelled, and
 thrown away a heart that truly loved me. He will go his way and I
-shall go mine. He never will know, what I am only just. beginning to
+shall go mine. He never will know, what I am only just beginning to
 know myself, that I yearn after his love with unutterable yearning.
 
 I am not going to sit down in sentimental despondency to weep over
@@ -3262,12 +3018,12 @@ September.-This, too, has been a delightful month in a certain sense.
 Amelia's marriage, at which I had to be present, upset me a little,
 but it was but a little ruffle on a deep sea of peace.
 
-I saw Dr. Cabot to-day. He is quite well again, ,and speaks of Dr.
+I saw Dr. Cabot to-day. He is quite well again, and speaks of Dr.
 Elliott's skill with rapture. He asked about my Sunday scholars and
 my poor folks, etc., and I could not help letting out a little of the
 new joy that has taken possession of me.
 
-"This is as it should be," he said. I should be sorry to see a person
+"This is as it should be," he said. "I should be sorry to see a person
 of your temperament enthusiastic in everything save religion. Do not
 be discouraged if you still have some ups and downs. 'He that is down
 need fear no fall'; but you are away up on the heights, and may have
@@ -3276,7 +3032,7 @@ one, now and then."
 This made me a little uncomfortable. I don't want any falls. I want
 to go on to perfection.
 
-OCT. 1.-Laura Cabot came to see me today, and seemed very
+OCT. 1.-Laura Cabot came to see me to-day, and seemed very
 affectionate.
 
 "I hope we may see more of each other than we have done," she began.
@@ -3285,18 +3041,18 @@ affectionate.
 Katy, mentally.-"Ah! He sees how unworldly, how devoted I am, and so
 wants Laura under my influence."
 
-Katy, aloud.-" I am sure that is very kind."
+Katy, aloud.-"I am sure that is very kind."
 
-Laura.-" Not at all. He knows it will be profitable to me to be with
+Laura.-"Not at all. He knows it will be profitable to me to be with
 you. I get a good deal discouraged at times, and want a friend to
 strengthen and help me."
 
-Katy, to herself.-" Yes, yes, he thinks me quite experienced and
+Katy, to herself.-"Yes, yes, he thinks me quite experienced and
 trustworthy."
 
-Katy, aloud.-" I shall never dare to try to help you.
+Katy, aloud.-"I shall never dare to try to help you."
 
-Laura.-" Oh, yes, you must. I am so far behind you in Christian
+Laura.-"Oh, yes, you must. I am so far behind you in Christian
 experience."
 
 But I am ashamed to write down any more. After she had gone I felt
@@ -3333,13 +3089,13 @@ along for months. All his physicians agree that he must give up his
 business and try the effect of a year's rest. Dr. Elliott proposes
 his going to Europe, which seems to me about as formidable as going
 to the next world. Aunty makes the best she can of it, but she says
-the thought of being separated from Uncle a whole year is dreadful I
+the thought of being separated from Uncle a whole year is dreadful. I
 pray for her day and night, that this wild project may be given up.
 Why, he would be on the ocean ever so many weeks, exposed to all the
 discomforts of narrow quarters and poor food, and that just as winter
 is drawing nigh!
 
-OCT. 12.~Aunty writes that the voyage to Europe has been decided on,
+OCT. 12.-Aunty writes that the voyage to Europe has been decided on,
 and that Dr. Elliott is to accompany Uncle, travel with him, amuse
 him, and bring him home a well man. I hope Dr. E.'s power to amuse
 may exist somewhere, but must own it was in a most latent form when I
@@ -3363,7 +3119,7 @@ do anything for Aunty that can be done.
 Nov. 4.-Here we are, the whole thing settled. Uncle and Aunty started
 a week ago, and we are monarchs of all we survey, and this is a great
 deal. I am determined that mother shall not be worn out with these
-children, although of course I could not them without her advice and
+children, although of course I could not manage them without her advice and
 help. It is to be hoped they won't all have the measles in a body, or
 anything of that sort; I am sure it would be annoying to Dr. E. to
 come here now.
@@ -3399,7 +3155,7 @@ of leaving her for Dr. Embury!
 She says he, Dr. Elliott, I mean, was the most devoted son she ever
 saw, and that he deserves his present success because he has made
 such sacrifices for his parents. I never met any one whom I liked so
-well on so short acquaintance-I mean Mrs. Embury, though you might
+well on so short acquaintance--I mean Mrs. Embury, though you might
 fancy, you poor deluded journal you, that I meant somebody else.
 
 Nov. 30.-I have so much to do that I have little time for writing.
@@ -3412,7 +3168,7 @@ don't have to tell stories till I feel my intellect reduced to the
 size of a pea. If ever I was alive and wide awake, however, it is
 just now, and in spite of some vague shadows of, I don't know what, I
 am very happy indeed. So is dear mother. She and the doctor have
-become bosom friends He keeps her making beef-tea, scraping lint, and
+become bosom friends. He keeps her making beef-tea, scraping lint, and
 boiling calves feet for jelly, till the house smells like an
 hospital.
 
@@ -3534,13 +3290,13 @@ and love helps her to bear her burden."
 "So it does me," I returned. "I love the children exactly as if they
 were my own."
 
-That," she said, "is impossible."
+"That," she said, "is impossible."
 
 "I certainly do," I persisted.
 
 Mother would not dispute with me, though I wished she would.
 
-A mother," she went on, "receives her children one at a time, and
+"A mother," she went on, "receives her children one at a time, and
 gradually adjusts herself to gradually increasing burdens. But you
 take a whole houseful upon you at once, and I am sure it is too much
 for you. You do not look or act like yourself."
@@ -3551,7 +3307,7 @@ for you. You do not look or act like yourself."
 
 "Why, it's nothing," I said, pettishly.
 
-'"I must say, dear," said mother, not noticing my manner, "that your
+"I must say, dear," said mother, not noticing my manner, "that your
 wonderful devotion to the children, aside from its effect on your
 health and temper, has given me great delight."
 
@@ -3682,11 +3438,11 @@ down, resolving to stay only a few moments.
 
 But I wanted so much to know all about that pretty little friend of
 Dr. E.'s that I let Mrs. Embury stay on and on, though not a ray of
-light did I get for my pains At last I heard Lucy's step coming
+light did I get for my pains. At last I heard Lucy's step coming
 downstairs.
 
 "Cousin Katy," she said, entering the room with her usual propriety,
-"I was seated by the window, engaged with my studies. and the
+"I was seated by the window, engaged with my studies, and the
 children were playing about, as usual, when suddenly I heard a
 shriek, and one of them ran past me, all in a blaze and-"
 
@@ -3708,7 +3464,7 @@ impatient for his arrival. He was as tender as a woman with Emma; we
 cut off and tore off her clothes wherever the fire had touched her,
 and he dressed the burns with his own hands. He did not speak a word
 to me, or I to him. This time he did not find it necessary to advise
-me to control my-self. I was as cold and hard as a stone.
+me to control myself. I was as cold and hard as a stone.
 
 But when poor little Emma's piercing shrieks began to subside, and
 she came a little under the influence of some soothing drops he had
@@ -3788,7 +3544,7 @@ He seemed astonished at my attack.
 
 "No, but you looked a good many things. Now the fact is, women are
 not fickle. When they lose what they value most, they find it
-impossible to re place it. But men console themselves with the first
+impossible to replace it. But men console themselves with the first
 good thing that comes along."
 
 I dare say I spoke bitterly, for I was thinking how soon Ch----, I
@@ -3847,7 +3603,7 @@ Katy, to the other creature, whom I will call Kate.-Your mother looks
 tired, and you have been very cross. Run and put your arms around
 her, and tell her how you love her.
 
-Kate. -Oh, I can't; it would look queer. I don't like palaver.
+Kate.-Oh, I can't; it would look queer. I don't like palaver.
 Besides, who would not be cross who felt as I do?
 
 SCENE SECOND.
@@ -3977,7 +3733,7 @@ letters are almost better than Ernest himself. I have written enough
 to him to fill a dozen books. We are going back to the city now. In
 his last letter Ernest says he has been home, and that his mother is
 delighted to hear of his engagement. He says, too, that he went to
-see an old lady, one of the friends of. his boyhood, to tell the news
+see an old lady, one of the friends of his boyhood, to tell the news
 to her.
 
 "When I told her," he goes on, "that I had found the most beautiful,
@@ -4012,11 +3768,11 @@ repugnant to me. But I give myself to Ernest joyfully and with all my
 heart.
 
 How good God has been to me! I do hope and pray that this new, this
-absorbing love, has not detached my. soul from Him, will not detach
+absorbing love, has not detached my soul from Him, will not detach
 it. If I knew it would, could I, should I have courage to cut it off
 and cast it from me?
 
-JAN.16, 1837.-Yesterday was my birthday, and to-day is my
+JAN. 16, 1837.-Yesterday was my birthday, and to-day is my
 wedding-day. We meant to celebrate the one with the other, but Sunday
 would come this year on the fifteenth.
 
@@ -4109,13 +3865,13 @@ me, for she really does love me, and yet she must see my faults.
 I should like to know if there is any reason on earth why a woman
 should learn self-forgetfulness that does not apply to a man?
 
-FEB. 18. -Uncle says he has no doubt he owes his 1ife to Ernest, who,
+FEB. 18.-Uncle says he has no doubt he owes his life to Ernest, who,
 in the face of opposition to other physicians, insisted on his giving
 up his business and going off to Europe at just the right moment. For
 his partner, whose symptoms were very like his own, has been stricken
 down with paralysis, and will not recover.
 
-It Is very pleasant to hear Ernest praised, and it is a pleasure I
+It is very pleasant to hear Ernest praised, and it is a pleasure I
 have very often, for his friends come to see me, and speak of him
 with rapture. A lady told me that through the long illness of a sweet
 young daughter of hers, he prayed with her every day, ministering so
@@ -4149,7 +3905,7 @@ sure he will; he loves her already, and now that his mother has gone
 he will find her a real comfort. I am sure she will only make our
 home the happier.
 
-FEB. 28-Such a dreadful thing is going to happen! I have cried and
+FEB. 28.-Such a dreadful thing is going to happen! I have cried and
 called myself names by turns all day. Ernest writes that it has been
 decided to give up the old homestead, and scatter the family about
 among the married sons and daughters. Our share is to be his father
@@ -4193,7 +3949,7 @@ away is the copy of father's portrait. He won't want that!
 When I had finished this business I went and shook my fist at the
 creature I saw in the glass.
 
-"You're beaten I" I cried. "You didn't want to give up the chair, nor
+"You're beaten!" I cried. "You didn't want to give up the chair, nor
 your writing-table, nor the Bible in which you expect to record the
 names of your ten children I But you've had to do it, so there!"
 
@@ -4227,7 +3983,7 @@ mother's family twenty years.
 Ernest went out as soon as this unlucky repast was over to hear Dr.
 Embury's report of his patients, and we passed a dreary evening, as
 my mind was preoccupied with longing for his return. The more I tried
-to think. of something to say the more I couldn't.
+to think of something to say the more I couldn't.
 
 At last Martha asked at what time we breakfasted.
 
@@ -4275,7 +4031,7 @@ hand, and said, eagerly:
 She looked at me in blank amazement, unconscious that there was
 anything to forgive.
 
-'How you startled me!" she said. "I thought you had suddenly gone
+"How you startled me!" she said. "I thought you had suddenly gone
 crazy."
 
 I went back to my seat crestfallen enough. All this time Ernest's
@@ -4294,7 +4050,7 @@ formal one made me reply quickly:
 evening, and sometimes we are quite late. I hope you never will feel
 obliged to wait for him."
 
-I trust I shall do my duty, whatever it costs," was the answer.
+"I trust I shall do my duty, whatever it costs," was the answer.
 
 Oh, how I wished they would go to bed!
 
@@ -4379,7 +4135,7 @@ your head, and making you as cold and hard as a stone. Mother liked
 to have me 'run on,' as you call it, and I wish I had stayed with her
 all my life."
 
-"Do you mean," he asked, very gravely," that you really wish that?"
+"Do you mean," he asked, very gravely, "that you really wish that?"
 
 "No," I said, "I don't mean it," for his husky, troubled voice
 brought me to my senses. "All I mean is, that I love you so dearly,
@@ -4408,11 +4164,11 @@ high-toned, heroic character, would sustain me in every duty, and
 welcome my father and sister to our home. I do not know what I can do
 now. Shall I send them away?"
 
-No, no!" I cried. "Only be good to me, Ernest, only love me, only
+"No, no!" I cried. "Only be good to me, Ernest, only love me, only
 look at me with your own eyes, and not with other people's. You knew
 I had faults when you married me; I never tried to conceal them."
 
-And did you fancy I had none myself?" he asked.
+"And did you fancy I had none myself?" he asked.
 
 "No," I replied. "I saw no faults in you. Everybody said you were
 such a noble, good man and you spoke so beautifully one night at an
@@ -4448,13 +4204,13 @@ gives me of the brevity and sorrowfulness of life makes you doubly
 precious, since it constantly reminds me that sick beds and dying
 beds must sooner or later come to our home as to those of others."
 
-I clung to him as he uttered these terrible words In an agony of
+I clung to him as he uttered these terrible words. In an agony of
 terror.
 
 "Oh, Ernest, promise me, promise me that you will not die first," I
 pleaded.
 
-Foolish little thing!" he said, and was as silly, for a while, as the
+"Foolish little thing!" he said, and was as silly, for a while, as the
 silliest heart could ask. Then he became serious again.
 
 "Katy," he said, "if you can once make up your mind to the fact that
@@ -4472,12 +4228,12 @@ with the trouble they make, for my sake."
 me! What I mind is their coming between you and me and making you
 love me less."
 
-"By this time there was a call for Ernest-it is a wonder there had
+By this time there was a call for Ernest-it is a wonder there had
 not been forty-and he went.
 
-"I feel as heart-sore as ever. What has been gained by this tempest ?
+"I feel as heart-sore as ever. What has been gained by this tempest?
 Nothing at all! Poor Ernest! How can I worry him so when he is
-already full of care?
+already full of care?"
 
 MARCH 20.-I have had such a truly beautiful letter to-day from dear
 mother! She gives up the hope of coming to spend her last years with
@@ -4494,7 +4250,7 @@ APRIL 3.-Martha is closeted with Ernest in his office day and night.
 They never give me the least hint of what is going on in these secret
 meetings. Then this morning Sarah, my good, faithful cook, bounced
 into my room to give warning. She said she could not live where there
-were, two mistresses giving contrary directions.
+were two mistresses giving contrary directions.
 
 "But, really, there is but one mistress," I urged. Then it came out
 that Martha went down every morning to look after the soap-fat, and
@@ -4562,7 +4318,7 @@ to a crisis by saying to Martha,
 "If you can find time to-day I wish you would go out with me for half
 an hour or so. I want to consult you about-"
 
-"Oh!" I said, rising, with my face all in a flame, do not trouble
+"Oh!" I said, rising, with my face all in a flame, "do not trouble
 yourself to go out in order to escape me. I can leave the room and
 you can have your secrets to yourselves as you do your breakfast!"
 
@@ -4639,14 +4395,14 @@ it from you to spare you all the anxiety I could."
 "Oh, Ernest," I said, "ought not a wife to share in all her husband's
 cares?"
 
-"'No," he returned; "but I will tell you all that is annoying me now.
+"No," he returned; "but I will tell you all that is annoying me now.
 My father was in business in our native town, and went on
 prosperously for many years. Then the tide turned-he met with loss
 after loss, till nothing remained but the old homestead, and on that
 there was a mortgage. We concealed the state of things from my
 mother; her health was delicate, and we never let her know a trouble
 we could spare her. Now she has gone, and we have found it necessary
-to sell our old home and to divide and scatter the family My father's
+to sell our old home and to divide and scatter the family. My father's
 mental distress when he found others suffering from his own losses
 threw him into the state in which you see him now. I have therefore
 assumed his debts, and with God's help hope in time to pay them to
@@ -4687,7 +4443,7 @@ Martha?"
 He smiled a little.
 
 "In the first place, Helen would be perfectly if she had the care of
-father in his present She is too young to have such responsibility.
+father in his present. She is too young to have such responsibility.
 In the second place, my brother John, with whom she has gone to live,
 has a wife who would be quite crushed by my father and Martha. She is
 one of those little tender, soft souls one could crush fingers. Now,
@@ -4844,7 +4600,7 @@ counting his pulse, refuses to take exercise lest he should bring on
 palpitations, and warns us all to prepare to follow him. Everybody
 who comes in has to hear the whole story, every one prescribes
 something, and he tries each remedy in turn. These all failing to
-reach his case, he is s plunged into ten-fold gloom. He complains
+reach his case, he is plunged into ten-fold gloom. He complains
 that God has cast him off forever, and that his sins are like the
 sands of the sea for number. I am such a goose that I listen to all
 these varying moods and symptoms with the solemn conviction that he
@@ -4922,11 +4678,11 @@ Ernest and myself. And I took special pains to have a good dinner,
 particularly for father. Yes, I had made up my mind to call him by
 that sacred name for the first time to-day, cost what it may. But he
 shut himself up in his room directly after breakfast, and when dinner
-was ready refused to come down. This cast a gloom over us all Then
+was ready refused to come down. This cast a gloom over us all. Then
 Martha was nearly distracted because a valuable dish had been broken
 in the kitchen, and could not recover her equanimity at all. Worst of
 all Ernest, who is not in the least sentimental, never said a word
-about our wedding-day, and. didn't give me a thing! I have kept
+about our wedding-day, and didn't give me a thing! I have kept
 hoping all day that he would make me some little present, no matter
 how small, but now it is too late; he has gone out to be gone all
 night, probably, and thus ends the day, an utter failure.
@@ -5024,7 +4780,7 @@ their absence, may help to render our real home in heaven more
 attractive."
 
 "But suppose one cannot exercise self-control, and is always flying
-out and flaring up ?" I objected.
+out and flaring up?" I objected.
 
 "I should say that a Christian who was always doing that," she
 replied, gravely, "was in pressing need of just the trial God sent
@@ -5069,11 +4825,11 @@ will lead to this end?"
 I meditated long before I answered. Was God really asking me not
 merely to let Martha and her father live with me on sufferance, but
 to rejoice that He had seen fit to let them harass and embitter my
-domestic life?"
+domestic life?
 
 "I thank you for the suggestion," I said, at last.
 
-"1 want to say one thing more," Mrs. Campbell resumed, after another
+"I want to say one thing more," Mrs. Campbell resumed, after another
 pause. "We look at our fellow-men too much from the standpoint of our
 own prejudices. They may be wrong, they may have their faults and
 foibles, they may call out all that is meanest and most hateful in
@@ -5246,10 +5002,10 @@ circles, committing the same sins, uttering the same confessions, and
 making no advance."
 
 "My dear," she said, after a time, "have you a perfectly distinct,
-settled view of what Christ is to the human soul ?"
+settled view of what Christ is to the human soul?"
 
 "I do not know. I understand, of course, more or less perfectly, that
-my salvation depends on. Him alone; it is His gift."
+my salvation depends on Him alone; it is His gift."
 
 "But do you see, with equal clearness, that your sanctification must
 be as fully His gift, as your salvation is?"
@@ -5260,7 +5016,7 @@ has done His part, and now I must do mine."
 "My dear," she said, with much tenderness and feeling, "then the
 first thing you have to do is to learn Christ."
 
-"But how ?"
+"But how?"
 
 "On your knees, my child, on your knees!" She was tired, and I came
 away; and I have indeed been on my knees.
@@ -5295,7 +5051,7 @@ Dr. Elliott to Mrs. Mortimer:
 
 OCTOBER 4, 1838.
 
-My dear Katy's Mother-You will rejoice with us when I tell you that
+My dear Katy's Mother--You will rejoice with us when I tell you that
 we are the happy parents of a very fine little boy. My dearest wife
 sends "an ocean of love" to you, and says she will write her self
 to-morrow. That I shall not be very likely to allow, as you will
@@ -5304,10 +5060,10 @@ grateful for. Your affectionate Son, J. E. ELLIOTT.
 
 Mrs. Crofton to Mrs. Mortimer:
 
-I am sure, my dear sister, that the doctor has riot written you more
+I am sure, my dear sister, that the doctor has not written you more
 than five lines about the great event which has made such a stir in
 our domestic circle. So I must try to supply the details you will
-want to hear.... .1 need not add that our darling Katy behaved nobly.
+want to hear.... I need not add that our darling Katy behaved nobly.
 Her self-forgetfulness and consideration for others were really
 beautiful throughout the whole scene. The doctor may well be proud of
 her, and I took care to tell him so ill presence of that dreadful
@@ -5327,7 +5083,7 @@ as the saying and always has her room in perfect order. But one
 misses the loving word, the re-assuring smile, the delicate,
 thoughtful little forbearance, that ought to adorn every sick-room,
 and light it up with genuine sunshine. There is one comfort about it,
-how-ever, and that is that I can spoil dear Katy to my heart's
+however, and that is that I can spoil dear Katy to my heart's
 content.
 
 As to the baby, he is a fine little fellow, and his mother is so
@@ -5364,7 +5120,7 @@ me!
 
 I see now why He has put some thorns into my domestic life; but for
 them I should be too happy to live. It does not seem just the moment
-to com plain, and yet, as I can speak to no one, it is a relief, a
+to complain, and yet, as I can speak to no one, it is a relief, a
 great relief, to write about my trials. During my whole sickness,
 Martha has been so hard, so cold, so unsympathizing that sometimes it
 has seemed as if my cup of trial could not hold another drop. She
@@ -5412,15 +5168,15 @@ of course I didn't; that I prayed every day that I might love Ernest
 and baby better and better. Poor father seemed puzzled and troubled
 by what I did say, and after musing a while, went on thus:
 
-'The Almighty is a great and terrible Being. He cannot bear a rival;
+"The Almighty is a great and terrible Being. He cannot bear a rival;
 He will have the whole heart or none of it. When I see a young woman
 so absorbed in a created being as you are in that infant, and in your
 other friends, I tremble for you, I tremble for you!"
 
-'But, father," I persisted, "God gave me this child, and He gave me
+"But, father," I persisted, "God gave me this child, and He gave me
 my heart, just as it is."
 
-'Yes; and that heart needs renewing."
+"Yes; and that heart needs renewing."
 
 "I hope it is renewed," I replied. "But I know there is a great work
 still to be done in it. And the more effectually it is done the more
@@ -5451,7 +5207,7 @@ precious moments when I had got him all to myself were passing away,
 and was becoming quite out of patience with him when the words
 "Constantly seek to have less, rather than more," flashed into my
 mind. I suppose this direction had reference to worldly good, but I
-despise money, and despise people who love it, The riches I crave are
+despise money, and despise people who love it. The riches I crave are
 not silver and gold, but my husband's love and esteem. And of these
 must I desire to have less rather than more? I puzzled myself over
 this question in vain, but when I silently prayed to be satisfied
@@ -5490,7 +5246,7 @@ Chapter 14
 
 XIV.
 
-JAN.30.
+JAN. 30.
 
 WHO would have thought I would have anything more to do with poor old
 Susan Green? Dr. Cabot came to see me to-day, and told me the
@@ -5515,7 +5271,7 @@ help congratulating you that you have had the honor and the privilege
 of perhaps leading that poor, benighted soul to Christ, even at the
 eleventh hour."
 
-"Oh, Dr. Cabot '." I cried, "what a relief it is to hear you say
+"Oh, Dr. Cabot," I cried, "what a relief it is to hear you say
 that! For I have always reproached myself for the cowardice that made
 me afraid to speak to her of her Saviour. It takes less courage to
 speak to God than to man."
@@ -5550,19 +5306,19 @@ hearts she shall cause to sing for joy!
 
 Feb. 25.-Things have not gone on well of late. Dearly as I love
 Ernest, he has lowered himself in my eye by telling that to Dr.
-Cabot. It would have bee far nobler to be silent concerning his
+Cabot. It would have been far nobler to be silent concerning his
 sacrifices; and he certainly grows harder, graver, sterner every day.
 He is all shut up within himself, and I am growing afraid of him. It
 must be that he is bitterly disappointed in me, and takes refuge in
 this awful silence. Oh, if I could only please him, and know that I
 pleased him, how different my life would be!
 
-Baby does not .seem well. I have often plumed myself on the thought
+Baby does not seem well. I have often plumed myself on the thought
 that having a doctor for his father would be such an advantage to
 him, as he would be ready 'to attack the first symptoms of disease.
-But Ernest hardly listens to me when I express anxiety. about this or
+But Ernest hardly listens to me when I express anxiety about this or
 that, and if I ask a question he replies, "Oh, you know better than I
-do. Mothers know' by instinct how to manage babies." But I do not
+do. Mothers know by instinct how to manage babies." But I do not
 know by instinct, or in any other way, and I often wish that the time
 I spent over my music had been spent learning how to meet all the
 little emergencies that are constantly arising since baby came. How I
@@ -5592,7 +5348,7 @@ very desolate. Ernest often congratulates me on having had such a
 good night's rest, when I have been up and down every hour with baby,
 half asleep frozen and exhausted. But he shall sleep at any rate.
 
-April 5.-The first rays of spring make me more languid than ever
+April 5.-The first rays of spring make me more languid than ever.
 Martha cannot be made to understand that nursing such a large,
 voracious baby, losing sleep, and confinement within doors, are
 enough to account for this. She is constantly speaking in terms of
@@ -5606,7 +5362,7 @@ happy. But all the morning, I must have baby till he takes his nap,
 and as soon as he gets to sleep I must put my room in order, and by
 that time all the best part of the day is gone. And at night I am so
 tired that I can hardly feel anything but my weariness. That, too, is
-.my only chance of seeing Ernest and if I lock my door and fall upon
+my only chance of seeing Ernest and if I lock my door and fall upon
 my knees, I keep listening for his step, ready to spring to welcome
 should he come. This is wrong, I know, but how can I live without one
 loving word from him, and every day I am hoping it will come.
@@ -5617,7 +5373,7 @@ Martha though of course she did not mean to do that.
 
 "You are not fit to have the whole care of that great boy at night,"
 said she, "and you ought to begin to feed him, both for his sake and
-your own.
+your own."
 
 "I am willing to take the child at night," Martha said, a little
 stiffly. "But I supposed his mother preferred to keep him herself."
@@ -5625,7 +5381,7 @@ stiffly. "But I supposed his mother preferred to keep him herself."
 "And so I do," I cried. "I should be perfectly miserable if I had to
 give him up just as he is getting teeth, and so wakeful."
 
-"What are you taking to keep up. your strength, dear?" asked Aunty.
+"What are you taking to keep up your strength, dear?" asked Aunty.
 
 "Nothing in particular," I said.
 
@@ -5665,7 +5421,7 @@ prayer was only a task, it is now my chief solace if I can only
 snatch time for it.
 
 Mrs. Embury has a little daughter. How glad I am for her! She is
-going to give it my name That is a real pleasure.
+going to give it my name. That is a real pleasure.
 
 JULY 4.-Baby is ten months old to-day, and in spite of everything is
 bright and well. I have come home to mother. Ernest waked up at last
@@ -5682,8 +5438,8 @@ JULY 12.-Ernest writes that he has had no communication with Dr.
 Cabot or any one else on subject that, touching his father's honor as
 it does, he regards as a sacred one.
 
-"You say, dear," be said, "you often say, that I do not understand
-you. Are you sure that you understand me ?"
+"You say, dear," he said, "you often say, that I do not understand
+you. Are you sure that you understand me?"
 
 Of course I don't. How can I? How can I reconcile his marrying me and
 professing to do it with delight, with his indifference to my
@@ -5733,7 +5489,7 @@ boast of the sacrifices you were making."
 "You were cold, for you and I felt it. Don't you know that we
 undemonstrative men prefer loving winsome little women like you, just
 because you are our own opposites? And when the pet kitten turns into
-a cat with claws-"
+a cat with claws."
 
 "Now, Ernest, that is really too bad! To compare me to a cat!"
 
@@ -5763,7 +5519,7 @@ made the announcement.
 
 "He fell into a fit of musing, and none of my usual devices for
 arousing him had any effect. I pulled his hair and his ears, and
-shook him, but he remained unmoved.
+shook him, but he remained unmoved."
 
 At last he began again.
 
@@ -5813,7 +5569,7 @@ After this all our cloud melted away. I only long to go home and show
 Ernest that he shall have one cheerful face about him, and have one
 cheerful voice.
 
-AUGUST 12.-I have had a long letter from Ernest to day. He says he
+AUGUST 12.-I have had a long letter from Ernest to-day. He says he
 hopes he has not been selfish and unkind in speaking of his father
 and sister as he has done, because he truly loves and honors them
 both, and wants me to do so, if I can. His father had called them up
@@ -5841,7 +5597,7 @@ a volume of Shakespeare which had done long service as an ornament to
 the table, but which nobody ever read on account of the small print.
 The battle then began thus:
 
-Father.-" I regret to see that worldly author in your hands, my
+Father.-"I regret to see that worldly author in your hands, my
 daughter."
 
 Daughter-a little mischievously.-"Why, were you wanting to talk,
@@ -5882,10 +5638,10 @@ they want, in God."
 
 "Do you, father?"
 
-"'Alas, no. He seems a great way off."
+"Alas, no. He seems a great way off."
 
 "To me He seems very near. So near that He can see every thought of
-my heart Dear father, it is your disease that makes everything so
+my heart. Dear father, it is your disease that makes everything so
 unreal to you. God is really so near, really loves us so; is so sorry
 for us! And it seems hard, when you are so good, and so intent on
 pleasing Him, that you get no comfort out of Him."
@@ -5915,8 +5671,8 @@ ever had has racked my poor frame almost to pieces. Nearly six months
 confinement to my room; six months of uselessness during which I have
 been a mere cumberer of the ground. Poor Ernest! What a hard time he
 has had! Instead of the cheerful welcome home I was to give him
-whenever he entered the house, here I have lain exhausted, woe-
-begone and good for nothing. It is the bitterest disappointment I
+whenever he entered the house, here I have lain exhausted, woe-begone
+and good for nothing. It is the bitterest disappointment I
 ever had. My ambition is to be the sweetest, brightest, best of
 wives; and what with my childish follies, and my sickness, what a
 weary life my dear husband has had! But how often I have prayed that
@@ -5945,7 +5701,7 @@ I could only smile; I had no strength to talk.
 
 Then I heard Ernest--my dear, calm, self-controlled Ernest--burst out
 crying and rush out of the room. I looked after him, and how I loved
-him! But I felt that I loved my Saviour infinitely more,and that if
+him! But I felt that I loved my Saviour infinitely more, and that if
 He now let me come home to be with Him I could trust Him to be a
 thousand-fold more to Ernest than I could ever be, and to take care
 of my darling baby and my precious mother far better than I could.
@@ -6002,9 +5758,9 @@ you in the face, you expressed no anxiety, asked for no counsel,
 showed no alarm. It must be pleasant to possess so comfortable a
 persuasion of our acceptance with God; but is it safe to rest on such
 an assurance while we know that the human heart is deceitful above
-all things and desperately wicked ?"
+all things and desperately wicked?"
 
-I thank you for the suggestion;" I said; "and, dear father, do not be
+"I thank you for the suggestion;" I said; "and, dear father, do not be
 afraid to speak still more plainly. You live in the house with me,
 see all my shortcomings and my faults, and I cannot wonder that you
 think me a poor, weak Christian. But do you really fear that I am
@@ -6059,14 +5815,14 @@ Ernest was going to reply, but I broke in eagerly upon his answer:
 at hand. I felt none. I had given myself away to Christ, and He had
 received me and why should I be afraid to take His hand and go where
 He led me? And it is true that I asked for no counsel. I was too weak
-to ask questions or to like to have questions asked;, but my mind was
+to ask questions or to like to have questions asked; but my mind was
 bright and wide awake while my body was so feeble, and I took counsel
 of God. Oh, let me read to you two passages from the life of Caroline
 Fry which will make you understand how a poor sinner looks upon
 death. The first is an extract from a letter written after learning
 that her days on earth were numbered.
 
-"'As many will hear and will not understand, why I want no time of,
+"As many will hear and will not understand, why I want no time of,
 preparation, often desired by far holier ones than I, I tell you why,
 and shall tell others, and so shall you. It is not because I am so
 holy but because I am so sinful. The peculiar character of my
@@ -6080,17 +5836,17 @@ week, when knew it not? Alas, there is but one thing undone, to serve
 Him better; and the death-bed is no place for that. Therefore I say,
 if I am not ready now, I shall not be by delay, so far as I have to
 do with it. If He has more to do in me that is His part. I need not
-ask Him not to spoil His work by too much haste.'
+ask Him not to spoil His work by too much haste."
 
 "And these were her dying words, a few days later:
 
-"'This is my bridal-day, the beginning of my life. I wish there
+"This is my bridal-day, the beginning of my life. I wish there
 should be no mistake about the reason of my desire to depart and to
 be with Christ. I confess myself the vilest, chiefest of sinners, and
 I desire to go to Him that I may be rid of the burden of sin-the sin
 of my nature-not the past, repented of every day, but the present,
-hourly, momentary sin, which I do commit, or may commit -the sense of
-which at times drives me half mad with grief!"'
+hourly, momentary sin, which I do commit, or may commit-the sense of
+which at times drives me half mad with grief!"
 
 I shall never forget the expression of father's face, as I finished
 reading these remarkable words. He rose slowly from his seat, and
@@ -6127,7 +5883,7 @@ What a petite wee maiden she is! Where does all the love come from?
 If I had had her always I do not see how I could be more fond of her.
 And do people call it living who never had any children?
 
-JULY 10.-lf this darling baby lives, I shall always believe it is
+JULY 10.-If this darling baby lives, I shall always believe it is
 owing to my mother's prayers.
 
 I find little Ernest has a passionate temper, and a good deal of
@@ -6140,7 +5896,7 @@ shame. The truth is, it is so long since I really felt strong and
 well that I am not myself, and can not do him justice, poor child.
 Next to being a perfect wife I want to be a perfect mother. How
 mortifying, how dreadful in all things to come short of even one's
-own standard What approach, then, does one make to God's standard?
+own standard. What approach, then, does one make to God's standard?
 
 Mother seems very happy to have us here, though we make so much
 trouble. She encourages me in all my attempts to control myself and
@@ -6157,13 +5913,13 @@ constitution.
 I reproached him for doing it without consulting me, but he said
 mother bad written to tell him that I was all worn out and not in a
 state to have the care of the children. It has been a terrible blow
-to me One by one I am giving up the sweetest maternal duties. God
+to me. One by one I am giving up the sweetest maternal duties. God
 means that I shall be nothing and do nothing; a mere useless
 sufferer. But when I tell Ernest so, he says I am everything to him,
 and that God's children please him just as well when they sit
 patiently with folded hands, if that is His will, as when they are
 hard at work. But to be at work, to be useful, to be necessary to my
-husband and children, is just what I want, and I. do find it hard to
+husband and children, is just what I want, and I do find it hard to
 be set against the wall, as it were, like an old piece of furniture
 no longer of any service I see now that my first desire has not been
 to please God, but to please myself, for I am restless under His
@@ -6205,7 +5961,7 @@ Surely, we love Him better than we love her."
 
 But as I spoke a sharp pang shot through and through my soul, and I
 held my little fair daughter closely in my arms, as if I could always
-keep her there It may be my conceit, but it really does seem as if
+keep her there. It may be my conceit, but it really does seem as if
 poor father was getting a little fond of me. Ever since my own
 sickness I have felt great sympathy for him, and he feels, no doubt,
 that I give him something that neither Ernest nor Martha can do,
@@ -6254,18 +6010,18 @@ some moments. At last she recovered herself sufficiently to welcome
 me, by throwing her arms around me and bursting into tears.
 
 "Oh, Katy!" she cried, "should you have known me if we had met in
-the street? Don't you find me sadly altered ?"
+the street? Don't you find me sadly altered?"
 
 "You are changed," I said, "but so am I."
 
 "Yes, you do not look strong. But then you never did. And you are as
-pretty as ever, while I-- oh, Kate! do you remember what round, white
+pretty as ever, while I--oh, Kate! do you remember what round, white
 arms I used to have? Look at them now!"
 
 And she drew up her sleeve, poor child. Just then I heard a step in
-the passage,. and her husband sauntered into the room, smoking.
+the passage, and her husband sauntered into the room, smoking.
 
-"Do go away, Charles,". she said impatiently. "You know how your
+"Do go away, Charles," she said impatiently. "You know how your
 cigar sets me coughing."
 
 He held out his hand to me with the easy, nonchalant air of one who
@@ -6281,7 +6037,7 @@ life worse than wasted.
 He threw himself into a chair without paying the least attention to
 her, and still addressing himself to me again, said:
 
-"Upon my word, you are prettier than ever,
+"Upon my word, you are prettier than ever,"
 
 and--
 
@@ -6299,8 +6055,8 @@ year! Oh, from what hopeless misery God saved me, when He snatched me
 out of the depth of my folly!
 
 DECEMBER 1.-Ernest says I can go to see Amelia with safety now, as
-her. husband has sprained his ankle, and keeps to his own room. So I
-am going. But, I am sure,. I shall say something imprudent or unwise,
+her husband has sprained his ankle, and keeps to his own room. So I
+am going. But, I am sure, I shall say something imprudent or unwise,
 and wish I could think it right to stay away. I hope God will go with
 me and teach me what words to speak.
 
@@ -6328,10 +6084,10 @@ said. "Some days I feel quite bright and well. But if it were not for
 my poor little children, I should not care much how the thing ended.
 With the life Charley leads me, I haven't much to look forward to."
 
-"'You forget that the children's nurse is in the room," I whispered.
+"You forget that the children's nurse is in the room," I whispered.
 
 "Oh, I don't mind Charlotte. Charlotte knows he neglects me, don't
-you, Charlotte ?"
+you, Charlotte?"
 
 Charlotte was discreet enough to pretend not to hear this question,
 and Amelia went on:
@@ -6341,7 +6097,7 @@ other girls exactly as he did before; then when I spoke about it he
 would just laugh in his easy, good-natured way, but pay no attention
 to my wishes. Then when I grew more in earnest he would say, that as
 long as he let me alone I ought to let him alone. I thought that when
-our first baby came that would sober him a little, but be wanted a
+our first baby came that would sober him a little, but he wanted a
 boy and it turned out to be a girl. And my being unhappy and crying
 so much, made the poor thing fretful; it kept him awake at night, so
 he took another room. After that I saw him less than ever, though now
@@ -6353,7 +6109,7 @@ with a set of idle young men, smoking, drinking wine, and, I don't
 know what else. His uncle gave him too much money, and he had nothing
 to do but to spend it."
 
-"You must not tell me any more now," I said. "'Wait till you are
+"You must not tell me any more now," I said. "Wait till you are
 stronger."
 
 The nurse rose and gave her something which seemed to refresh her. I
@@ -6401,14 +6157,14 @@ I should see you."
 "Yes, he came first, and it was that that put it into Charley's head
 to come. He is very kind to me."
 
-"Yes," I said, "and God is kind, too, isn't He ?"
+"Yes," I said, "and God is kind, too, isn't He?"
 
 "Kind to let me get sick and disgust Charley? Now, Katy, how can you
 talk so?" I replied by repeating two lines from a hymn of which I am
 very fond:
 
-    O Saviour, whose mercy severe in its kindness,
-    Hath chastened my wanderings, and guided my way."'
+    'O Saviour, whose mercy severe in its kindness,
+    Hath chastened my wanderings, and guided my way.'
 
 "I don't much care for hymns," she said. "When one is well, and
 everything goes quite to one's mind, it is nice to go to church and
@@ -6422,7 +6178,7 @@ peevishly. "Wait till you are sick and heart-broken yourself, and
 you'll see that you won't feel much like doing anything but just
 groan and cry your life out."
 
-"I have been sick, and I know what sorrow means, I said. "And I am
+"I have been sick, and I know what sorrow means," I said. "And I am
 glad that I do. For I have learned Christ in that school, and I know
 that He can comfort when no one else can."
 
@@ -6450,7 +6206,7 @@ suffering, tears my soul to pieces. I think it would distress me less
 to give her to God just as she is now, a vital part of my very heart,
 than to see her live a mere invalid life. But I try to feel, as I
 know I say, Thy will be done! Little Ernest is the very picture of
-health and beauty. He has vitality enough for two children He and his
+health and beauty. He has vitality enough for two children. He and his
 little sister will make very interesting contrasts as they grow
 older. His ardor and vivacity will rouse her, and her gentleness will
 soften him.
@@ -6479,8 +6235,8 @@ bless him for it!
 
 Then I have James. To be with him one half hour is an inspiration. He
 lives in such blessed communion with Christ that he is in perpetual
-sunshine, and his happiness fertilizes even this disordered household
-; there is not a soul in it that does not catch somewhat of his
+sunshine, and his happiness fertilizes even this disordered household;
+there is not a soul in it that does not catch somewhat of his
 joyousness.
 
 And there are my children! My darling, precious children! For their
@@ -6525,7 +6281,7 @@ I have given this precious little one away to her Saviour and to
 mine; living or dying, she is His.
 
 DEC. 13.-Writing journals does not seem to be my mission on earth of
-late. My busy hands find so much else to do And sometimes when I have
+late. My busy hands find so much else to do. And sometimes when I have
 been particularly exasperated and tried by the jarring elements that
 form my home, I have not dared to indulge myself with recording
 things that ought to be forgotten.
@@ -6597,7 +6353,7 @@ I had some little service to render her which interrupted our
 conversation. The offices I have had to have rendered me in my own
 long days of sickness have taught me to be less fastidious about
 waiting upon others. I am thankful that God has at last made me
-willing to do anything in a sickroom that must be done. She thanked
+willing to do anything in a sick-room that must be done. She thanked
 me, as she always does, and then I said:
 
 "I have a great many little trials, but they don't do me a bit of
@@ -6606,13 +6362,13 @@ good. Or, at least, I don't see that they do."
 "No, we never see plants growing," she said.
 
 "And do you really think then, that perhaps I am growing, though
-unconsciously ?"
+unconsciously?"
 
 "I know you are, dear child. There can't be life without growth."
 
 This comforted me. I came home, praying all the way, and striving to
 commit myself entirely to Him in whose school I sit as learner. Oh,
-that I were a better scholar But I do not half learn my lessons, I am
+that I were a better scholar. But I do not half learn my lessons, I am
 heedless and inattentive, and I forget what is taught. Perhaps this
 is the reason that weighty truths float before my mind's eye at
 times, but do not fix themselves there.
@@ -6660,7 +6416,7 @@ voices. I wish, if he must fast, he would do it moderately, and do it
 all the time. Now he goes without food until he is ready to sink, and
 now he eats quantities of improper food. If Martha could only see how
 mischievous all this is for him. After the children had been hustled
-out of the way, and I~ had got them both off to bed, he said in his
+out of the way, and I had got them both off to bed, he said in his
 most doleful manner, "I hope, my daughter, that you are faithful to
 your son. He has now reached the age of four years, and is a
 remarkably intelligent child. I hope you teach him that he is a
@@ -6691,21 +6447,21 @@ and good and terrible God who cannot look upon iniquity, and does not
 see His risen Son, who has paid the debt we owe, and lives to
 intercede for us before the throne of the Father.
 
-JAN. I, 1842.-James came to me yesterday with a letter he had been
+JAN. 1, 1842.-James came to me yesterday with a letter he had been
 writing to mother.
 
 "I want you to read this before it goes," he said, "for you ought to
 know my plans as soon as mother does."
 
 I did not get time to read it till after tea. Then I came up here to
-my room, and sat down curious to know what. was coming.
+my room, and sat down curious to know what was coming.
 
 Well, I thought I loved him as much as one human being could love
 another, already, but now my heart embraced him with a fervor and
 delight that made me so happy that I could not speak a word when I
 knelt down to tell my Saviour all about it.
 
-He said that he had been led, within a few months,. to make a new
+He said that he had been led, within a few months, to make a new
 consecration of himself to Christ and to Christ's cause on earth, and
 that this had resulted in his choosing the life of a missionary,
 instead of settling down, as he had intended to do, as a city
@@ -6717,7 +6473,7 @@ by sin. Every outbreak of my hasty temper sends me weeping and
 penitent to the foot of the cross, and I love much because I have
 been forgiven much. But James, as far as I know, has never had a
 sorrow, except my father's death, and that had no apparent religious
-effect And his natural character is perfectly beautiful. He is as
+effect. And his natural character is perfectly beautiful. He is as
 warm-hearted and loving and simple and guileless as a child, and has
 nothing of my intemperance, hastiness and quick temper. I have often
 thought that she would be a rare woman who could win and wear such a
@@ -6730,18 +6486,18 @@ him go! My only brother-mother's Son! But I know what she will say;
 she will him God-speed!
 
 Ernest came upstairs, looking tired and jaded. I read the letter to
-him. It impressed him strangely: but he only said;
+him. It impressed him strangely: but he only said,
 
-"This is what we m might expect, who knew James, dear fellow!"
+"This is what we might expect, who knew James, dear fellow!"
 
 But when we knelt down to pray together, I saw how he was touched,
 and how his soul kindled within him in harmony with that consecrated,
-devoted. spirit. Dear James! it must be mother's prayers that have
+devoted spirit. Dear James! it must be mother's prayers that have
 done for him this wondrous work that is usually the slow growth of
 years; and this is the mother who prays for you, Katy! So take
 courage!
 
-JAN. 2.~James means to study theology as well as medicine, it seems.
+JAN. 2.-James means to study theology as well as medicine, it seems.
 That will keep him with us for some years. Oh, is it selfish to take
 this view of it? Alas, the spirit is willing to have him go, but the
 flesh is weak, and cries out.
@@ -6753,7 +6509,7 @@ her health, and certainly looks much improved.
 jaunted about everywhere, and have a delightful time. What a snug
 little box of a house you have!"
 
-It is inconveniently small," I said, "for our family is large and the
+"It is inconveniently small," I said, "for our family is large and the
 doctor needs more office room."
 
 "Does he receive patients here? How horrid! Don't you hate to have
@@ -6824,7 +6580,7 @@ interrupted just then. Something in the way of self-glorification,
 most likely. I remember the contempt with which I looked after Amelia
 as she left our house, and the pinnacle on which I sat perched for
 some days, when I compared my life with hers. Alas, it was my view of
-life of which I was lost in admiration, for I am. sure that if I ever
+life of which I was lost in admiration, for I am sure that if I ever
 come under the complete dominion of Christ's gospel I shall not know
 the Sentiment of disdain. I feel truly ashamed and sorry that I am
 still so far from being penetrated with that spirit.
@@ -6849,7 +6605,7 @@ to them the virtues I so admired in myself. They had hardly a chance
 to utter a word. I spoke eloquently of my contempt for worldly
 vanities, and of my enthusiastic longings for a higher life. I even
 went into particulars about the foibles of some of my acquaintances,
-though faint misgivings as to the propriety of. such remarks on the
+though faint misgivings as to the propriety of such remarks on the
 absent made me half repent the words I still kept uttering. When they
 took leave I rushed to my room with my heart beating, my cheeks all
 in a glow, and caught up and caressed the children in a way that
@@ -6900,7 +6656,7 @@ along?"
 
 "I did not know you were so fond of her," he said, apologetically.
 
-It is not that," I cried. "I am distressed at the thought of the
+"It is not that," I cried. "I am distressed at the thought of the
 worldly life she has been living-at my never trying to influence her
 for her good. If she is in danger, you will tell her so? Promise me
 that."
@@ -6926,7 +6682,7 @@ appeared just as one would expect him to do.
 DECEMBER.-Amelia was so determined to see me that Ernest thought it
 best for me to go. I found her looking very feeble.
 
-"Oh, Katy," she began at once," do make the doctor say that I shall
+"Oh, Katy," she began at once, "do make the doctor say that I shall
 get well!"
 
 "I wish he could say so with truth," I answered. "Dear Amelia, try
@@ -6935,7 +6691,7 @@ to think how happy God's own children are when they are with Him."
 "I can't think," she replied. "I do not want to think. I want to
 forget all about it. If it were not for this terrible cough I could
 forget it, for I am really a great deal better than I was a month
-ago."'
+ago."
 
 I did not know what to say or what to do.
 
@@ -6949,7 +6705,7 @@ go.
 "Don't go," she cried. "I do not dare to be alone. Oh, what a
 terrible, terrible thing it is to die! To leave this bright,
 beautiful world, and be nailed in a coffin and buried up in a cold,
-dark grave.
+dark grave."
 
 "Nay," I said, "to leave this poor sick body there, and to fly to a
 world ten thousand times brighter, more beautiful than this."
@@ -6960,7 +6716,7 @@ little girls looking like fairies, just from fairy-land. Everybody
 said they wore the most picturesque costumes when they were dressed
 according to my taste. And I have got to go and leave them, and
 Charley will be marrying somebody else, and saying to her all the
-nice things he has said to me.
+nice things he has said to me."
 
 "I really must go now," I said. "You are wearing yourself all out."
 
@@ -6972,7 +6728,7 @@ all."
 Ernest says there is nothing I can do for her now but to pray for
 her, since she does not really believe herself in danger, and has a
 vague feeling that if she can once convince him how much she wants to
-live, he will use some vigorous measures to restore her Martha is to
+live, he will use some vigorous measures to restore her. Martha is to
 watch with her to-night. Ernest will not let me.
 
 JAN. 18, 1843.-Our wedding-day has passed unobserved. Amelia's
@@ -7018,10 +6774,10 @@ at the bare thought of dying; I must have time."
 "Don't wait for time," I said, with tears, "get ready now, this
 minute. A thousand years would not make you more fit to die."
 
-So I came away, weary and heavy- laden, and on the way home stopped
+So I came away, weary and heavy-laden, and on the way home stopped
 to tell Dr. Cabot all about it, and by this time he is with her.
 
-"MARCH 1.-Poor Amelia's short race on earth is over. Dr. Cabot saw
+MARCH 1.-Poor Amelia's short race on earth is over. Dr. Cabot saw
 her every few days and says he hopes she did depart in Christian
 faith, though without Christian joy. I have not seen her since that
 last interview. That excited me so that Ernest would not let me go
@@ -7031,7 +6787,7 @@ Martha has been there nearly the whole time for three or four weeks,
 and I really think it has done her good. She seems less absorbed in
 mere outside things, and more lenient toward me and my failings.
 
-I do not know what is to become of those mother little girls. I wish
+I do not know what is to become of those motherless little girls. I wish
 I could take them into my own home, but, of course, that is not even
 to be thought at this juncture. Ernest says their father seemed
 nearly distracted when Amelia died, and that his uncle is going to
@@ -7040,7 +6796,7 @@ send him off to Europe immediately.
 I have been talking with Ernest about Amelia.
 
 "What do you think," I asked, "about her last days on earth? Was
-there really any preparation for death?
+there really any preparation for death?"
 
 "These scenes are very painful," he returned. "Of course there is but
 one real preparation for Christian dying, and that is Christian
@@ -7062,7 +6818,7 @@ or not. The question is do they die in the Lord?"
 God is honored or dishonored by the way a Christian dies, as well as
 by the way in which he lives. There is great significance in the
 description given in the Bible of the death by which John should
-'Glorify God'; to my mind it that to die well is to live well."
+'Glorify God'; to my mind it implies that to die well is to live well."
 
 "But how many thousands die suddenly, or of such exhausting disease
 that they cannot honor God by even one feeble word."
@@ -7072,7 +6828,7 @@ whose minds are clear, who are able to attend to all other final
 details, should let it be seen what the gospel of Christ can do for
 poor sinners in the great exigency of life, giving Him the glory. I
 can tell you, my darling, that standing, as I so often do, by dying
-beds, this whole subject has become one of great magnitude to my mind
+beds, this whole subject has become one of great magnitude to my mind.
 And it gives me positive personal pain to see heirs of the eternal
 kingdom, made such by the ignominious death of their Lord, go
 shrinking and weeping to the full possession of their inheritance."
@@ -7105,13 +6861,13 @@ while I minister in Christ's name, I make a willing sacrifice of what
 little leisure for my own recreation my other darlings had left me.
 Yes, my precious baby, you are welcome to your mother's heart,
 welcome to her time, her strength, her health, her tenderest cares,
-to her life- long prayers! Oh, how rich I am, how truly, how
+to her life-long prayers! Oh, how rich I am, how truly, how
 wondrously blest!
 
 JUNE 5.-We begin to be woefully crowded. We need a larger house, or a
 smaller household. I am afraid I secretly, down at the bottom of my
 heart, wish Martha and her father could give place to my little ones.
-May God forgive me if this is so It is a poor time for such emotions
+May God forgive me if this is so! It is a poor time for such emotions
 when He has just given me another darling child, for whom I have as
 rich and ample a love as if I had spent no affection on the other
 twain. I have made myself especially kind to poor father and to
@@ -7205,9 +6961,9 @@ story has it, "den Jammer und das Elend der Welt."
 
 On the last evening in June we all sat together on the piazza,
 enjoying, each in our own way, a refreshing breeze that had sprung up
-after a sultry day Father was quieter than usual, and seemed very
+after a sultry day. Father was quieter than usual, and seemed very
 languid. Ernest who, out of regard to Martha's last evening at home,
-had joined our little circle, ob served this, and said, cheerfully:
+had joined our little circle, observed this, and said, cheerfully:
 
 "You will feel better as soon as you are once more out of the city,
 father."
@@ -7232,7 +6988,7 @@ into the house. Ernest followed her, and we heard them talking
 together a long time. At last Ernest joined us.
 
 "Father," he said, "Martha is a good deal wounded and disappointed,
-at your reluctance to, go with her She threatened to break off her
+at your reluctance to, go with her. She threatened to break off her
 engagement rather than to be separated from you. I really think you
 would be better off with her than with us. You would enjoy country
 life, because it is what you have been accustomed to; you could spend
@@ -7306,8 +7062,8 @@ increases my domestic peace and happiness, increases my cares also.
 What with the children, the housekeeping, the thought for mother's
 little comforts and the concern for father's, I am like a bit of
 chaff driven before the wind, and always in a hurry. There are so
-many stitches to be taken, so many things to pass through one's brain
-! Mother says no mortal woman ought to undertake so much, but what
+many stitches to be taken, so many things to pass through one's brain!
+Mother says no mortal woman ought to undertake so much, but what
 can I do? While Ernest is straining every nerve to pay off those
 debts, I must do all the needlework, and we must get along with
 servants whose want of skill makes them willing to put up with low
@@ -7321,7 +7077,7 @@ were any expenses we could cut down.
 My heart jumped up into my mouth, and I said in an irritated way:
 
 "I am killing myself with over-work now. Mother says so. I sew every
-night till twelve o'clock, and I feel all jaded out,"
+night till twelve o'clock, and I feel all jaded out."
 
 "I did not mean that I wanted you to do anymore than you are doing
 now, dear," he said, kindly. "I know you are all jaded out, and I
@@ -7384,8 +7140,10 @@ rounds. I have no long visits to make, and while I am seeing my
 patients you will be getting the air, which you need."
 
 "I do not want to go," I said. "I do not feel well enough. Besides,
-there's my work." "You can't see to sew with these red eyes," he
-declared. "Come! I prescribe a drive, as your physician."
+there's my work."
+
+"You can't see to sew with these red eyes," he declared.
+"Come! I prescribe a drive, as your physician."
 
 "Oh, Ernest, how kind, how forgiving you are?", I cried, running into
 the arms he held out to me, "If you knew how ashamed, how sorry, I
@@ -7413,7 +7171,7 @@ cares."
 "Don't say so," I interrupted. "If you had not told me you had this
 draft on your resources I should have always suspected you of
 meanness. For you know, dear, you have kept me-that is to say-you
-'could not help it, but I suppose men can't understand how many
+could not help it, but I suppose men can't understand how many
 demands are made upon a mother for money almost every day. I got
 along very well till the children came, but since then it has been
 very hard."
@@ -7491,7 +7249,7 @@ it by that exacting mistress you have hitherto been to yourself."
 All this sounded very plausible while Ernest was talking, but the
 moment I got home I snatched up my work from mere force of habit.
 
-"I may as well finish this as it is begun," I said to myself, arid
+"I may as well finish this as it is begun," I said to myself, and
 the stitches flew from my needle like sparks of fire. Little Ernest
 came and begged for a story, but I put him off. Then Una wanted to
 sit in my lap, but I told her I was too busy. In the course of an
@@ -7505,7 +7263,7 @@ Don't you see how busy I am? Go and play with Una like a good boy."
 But he would not go, and kept teasing Una till she too, began to cry,
 and she and baby made a regular concert of it.
 
-"Oh, ,dear!" I! sighed, "this work will never be done!" and threw it
+"Oh, dear!" I sighed, "this work will never be done!" and threw it
 down impatiently, and took the baby impatiently, and began to walk up
 and down with him impatiently. I was not willing that this little
 darling, whom I love so dearly, should get through with his nap and
@@ -7529,13 +7287,13 @@ have their cross days and their sick and father will have his. Alas,
 there can be for no royal road to a "sweet, cheerful, quiet tone of
 mind!"
 
-JANUARY I, 1844.-Mother says Ernest is entirely right in forbidding
+JANUARY 1, 1844.-Mother says Ernest is entirely right in forbidding
 my working so hard. I own that I already feel better. I have all the
 time I need to read my Bible and to pray now, and the children do not
 irritate and annoy me as they did. Who knows but I shall yet become
 quite amiable?
 
-Ernest made his father very happy to-day by telling him that ,the
+Ernest made his father very happy to-day by telling him that the
 last of those wretched debts is paid. I think that he might have told
 me that this deliverance was at hand. I did not know but we had years
 of these struggles with poverty before us. What with the relief from
@@ -7560,7 +7318,7 @@ does not see is annoying to him. He wants to be read to, to hear a
 hymn sung or a verse repeated, and to be left otherwise in perfect
 quiet. But she is continually pulling out and shaking up his pillows,
 bathing his head in hot vinegar and soaking his feet. It looks so odd
-to see her in one of the elegant silk dresses old .Mr. Underhill
+to see her in one of the elegant silk dresses old Mr. Underhill
 makes her wear, with her sleeves rolled up, the skirt hid away under
 a large apron, rubbing away at poor father till it seems as if his
 tired soul would fly out of him.
@@ -7658,7 +7416,7 @@ not get along without His help. But I am not satisfied with my state
 in His sight. I am sure something is lacking, though I know not what
 it is.
 
-MAY Helen is going to stay here and live with Martha How glad how
+MAY.-Helen is going to stay here and live with Martha. How glad how
 enchanted I am! Old Mr. Underhill is getting well; I saw him to-day.
 He can talk of nothing but his illness, of Martha's wonderful skill
 in nursing him declaring that he owes his life to her. I felt a
@@ -7674,7 +7432,7 @@ attached to her, and I feel that the worst of my life is now over.
 JUNE.-Little Ernest was taken sick on the day I wrote that. The
 attack was fearfully sudden and violent. He is still very, very ill.
 I have not forgotten that I said once that I would give my children
-to God should He ask for them. but oh, this agony of suspense! It
+to God should He ask for them. And I will. But oh, this agony of suspense! It
 eats into my soul and eats it away. Oh, my little Ernest! My
 first-born son! My pride, my joy, my hope! And I thought the worst of
 my life was over!
@@ -7704,15 +7462,15 @@ believe in Him, we love Him, we worship as we never did before. My
 dear Ernest has felt this sorrow to his heart's core. But he has not
 for one moment questioned the goodness or the love of our Father in
 thus taking from us the child who promised to be our greatest earthly
-joy Our consent to God's will has drawn us together very closely,
+joy. Our consent to God's will has drawn us together very closely,
 together we bear the yoke in our youth, together we pray and sing
 praises in the very midst of our tears "I was dumb with silence
 because Thou didst it."
 
 SEPT. The old pain and cough have come back with the first cool
-nights of this month Perhaps I am going to my darling- I do not know
-I am certainly very feeble Consenting to suffer does not annul the
-suffering Such a child could not go hence without rending and tearing
+nights of this month. Perhaps I am going to my darling--I do not know
+I am certainly very feeble. Consenting to suffer does not annul the
+suffering. Such a child could not go hence without rending and tearing
 its way out of the heart that loved it. This world is wholly changed
 to me and I walk in it like one in a dream. And dear Ernest is
 changed, too. He says little, and is all kindness and goodness to me,
@@ -7725,12 +7483,12 @@ which my home was invaded, and at our galling poverty. God has
 exchanged the one discipline for the other; and oh, how far more
 bitter is this cup!
 
-Oct. 4.- My darling boy would have been six years old to-day. Ernest
+Oct. 4.-My darling boy would have been six years old to-day. Ernest
 still keeps me shut up, but he rather urges my seeing a friend now
 and. People say very strange things in the way of consolation. I
 begin to think that a tender clasp of the hand is about all one can
 give to the afflicted. One says I must not grieve, because my child
-is better off in heaven. Yes, he is better off; I know it, I .feel
+is better off in heaven. Yes, he is better off; I know it, I feel
 it; but I miss him none the less. Others say he might have grown up
 to be a bad man and broken my heart. Perhaps he might, but I cannot
 make myself believe that likely. One lady asked me if this affliction
@@ -7748,7 +7506,7 @@ room in which I am a prisoner seems like the very gate of heaven.
 MAY.-A long winter in my room, and all sorts of painful remedies and
 appliances and deprivations. And now I am getting well, and drive out
 every day. Martha sends her carriage, and mother goes with me. Dear
-mother! How nearly perfect she is! I never saw a sweeter face, nor.
+mother! How nearly perfect she is! I never saw a sweeter face, nor
 ever heard sweeter expressions of faith in God, and love to all about
 her than hers. She has been my tower strength all through these weary
 months; and she has shared my sorrow and made it her own.
@@ -7758,22 +7516,22 @@ about me have been a heavenly benediction to him I am sure that every
 mother whose sick child he visits will have a sympathy he could not
 have given while all our own little ones were alive and well. I thank
 God that He has thus increased my dear husband's usefulness as I
-think that He has mine also How tenderly I already feel towards all
+think that He has mine also. How tenderly I already feel towards all
 suffering children, and how easy it will be now to be patient with
 them!
 
-KEENE N H JULY 12 It is a year ago this day that the brightest
+KEENE, N. H. JULY 12.-It is a year ago this day that the brightest
 sunshine faded out of our lives, and our beautiful boy was taken from
 us. I have been tempted to spend this anniversary in bitter tears and
-lamentations For oh, this sorrow is not healed by time! I feel it
-more and more But I begged God when I first awoke this morning not to
+lamentations. For oh, this sorrow is not healed by time! I feel it
+more and more. But I begged God when I first awoke this morning not to
 let me so dishonor and grieve Him. I may suffer, I must suffer, He
 means it, He wills it, but let it be without repining, without gloomy
 despondency. The world is full of sorrow; it is not I alone who taste
 its bitter draughts, nor have I the only right to a sad countenance.
 Oh, for patience to bear on, cost what it may!
 
-"Cheerfully and gratefully I lay. myself and all that I am or own at
+"Cheerfully and gratefully I lay myself and all that I am or own at
 the feet of Him who redeemed me with His precious blood, engaging to
 follow Him, bearing the cross He lays upon me." This is the least I
 can do, and I do it while my heart lies broken and bleeding at His
@@ -7828,11 +7586,11 @@ gives most vivid illustrations of the wasting, wearing process of
 disease-for instance, what a contrast is the picture we have of him
 when he was "ruddy, and withal of a beautiful countenance, and goodly
 to look to," and the one he paints of himself in after years, when he
-says, "I may tell all my bones. they look and stare upon me; my days
-are like a, shadow that declineth, and I am withered like grass. I am
+says, "I may tell all my bones they look and stare upon me; my days
+are like a shadow that declineth, and I am withered like grass. I am
 weary with groaning; all the night make I my bed to swim; I water my
 couch with my tears. For my soul is full of troubles; and my life
-draweth near unto the grave,"
+draweth near unto the grave."
 
 And then what wails of anguish are these!
 
@@ -7840,7 +7598,7 @@ And then what wails of anguish are these!
 thy terrors I am distracted. Thy wrath lieth hard upon me and thou
 hast afflicted me with all thy waves. All thy waves and thy billows
 have gone over me. Lover and friend hast thou put far from me, and
-mine acquaintance into utter dark ness."
+mine acquaintance into utter darkness."
 
 Yet through it all what grateful joy in God, what expressions of
 living faith and devotion! During my long illness and confinement to
@@ -7873,7 +7631,7 @@ question:
 
 "Haven't you grown stoical?"
 
-I felt the angry blood rush' through my veins as it has not done in a
+I felt the angry blood rush through my veins as it has not done in a
 long time. My pride was wounded to the quick, and those cruel, unjust
 words still rankle in my heart. This is not as it should be. I am
 constantly praying that my pride may be humbled, and then when it is
@@ -7884,7 +7642,7 @@ feeling stung with their injustice, even while making the most
 desperate struggle to rise above and forget them. It is well for our
 fellow-creatures that God forgives and excuses them, when we fail to
 do it, and I can easily fancy that poor Maria Kelly is at this moment
-dearer in His sight than I am who have taken fire at a chance word
+dearer in His sight than I am who have taken fire at a chance word.
 And I can see now, what I wonder I did not see at the time, that God
 was dealing very kindly and wisely with me when He made Martha
 overlook my good qualities, of which I suppose I have some, as
@@ -7944,7 +7702,7 @@ it possible to get the instruction from him I used to do. I see that
 the Christian life must be individual, as the natural character
 is-and that I cannot be exactly like Dr. Cabot, or exactly like Mrs.
 Campbell, or exactly like mother, though they all three stimulate and
-re an inspiration to me. But I see, too, that the great points of
+are an inspiration to me. But I see, too, that the great points of
 similarity in Christ's disciples have always been the same. This is
 the testimony of all the good books, sermons, hymns, and, memoirs I
 read-that God's ways are infinitely perfect; that we are to love Him
@@ -7985,18 +7743,18 @@ all the morning. I suppose a saint wouldn't have cared for that, but
 I did, and for a moment stood the picture of confusion, my hands full
 of oddly shaped parcels and my face all in a flame.
 
-My wife, Miss Clifford," I heard Ernest say, and then I caught the
+"My wife, Miss Clifford," I heard Ernest say, and then I caught the
 curious, puzzled look in her eyes, which said as plainly as words
 could do:
 
 "What has the creature brought me?"
 
-I ask your pardon, Miss Clifford," I said, thinking it best to speak
+"I ask your pardon, Miss Clifford," I said, thinking it best to speak
 out just the honest truth, "but I supposed the doctor was taking me
-to see some of his old women, and so I have brought you a 1ittle tea,
+to see some of his old women, and so I have brought you a little tea,
 and a little sugar, and a bottle of raspberry vinegar!"
 
-"How delicious!'. cried she. "It really rests me to meet with a
+"How delicious!" cried she. "It really rests me to meet with a
 genuine human being at last! Why didn't you make some stiff, prim
 speech, instead of telling the truth out and out? I declare I mean to
 keep all you have brought me, just for the fun of the thing."
@@ -8044,7 +7802,7 @@ answer may be.'"
 "This may be its meaning to some persons," I replied, "for instance,
 to mere pleasure-seekers. But of course it is interpreted quite
 differently by others. To some it means nothing but a dull, hopeless
-struggle with poverty and hardship- and its whole aspect might be
+struggle with poverty and hardship--and its whole aspect might be
 changed to them, should those who do not know what to do to get rid
 of the time, spend their surplus leisure in making this struggle less
 brutalizing."
@@ -8073,7 +7831,7 @@ of thing is out of fashion now."
 home. There she may find vocation and fight her battles, and there
 she may learn the reality and the earnestness of life."
 
-"Pshaw!"' cried she. "Excuse me, however, saying that; but some of
+"Pshaw!" cried she. "Excuse me, however, saying that; but some of
 the most brilliant girls I know have settled down into mere married
 women and spend their whole time in nursing babies! Think how
 belittling!"
@@ -8103,7 +7861,7 @@ to be ministered unto by her through a helpless infancy."
 
 Miss Clifford was a little startled.
 
-'How terribly in earnest you are! she said. It is plain that to you,
+"How terribly in earnest you are!" she said. "It is plain that to you,
 at any rate, life is indeed no humbug."
 
 I thought of my dear ones, of Ernest, of my children, of mother, and
@@ -8142,7 +7900,7 @@ stately house alone with her servants. Until she was laid aside by
 the state pf her health, she lived in the world and of it. Now she is
 a prisoner, and prisoners have time to think.
 
-"Here I sit," she said, "all day .long. I never was fond of staying
+"Here I sit," she said, "all day long. I never was fond of staying
 at home, or of reading, and needlework I absolutely hate. In fact, I
 do not know how to sew."
 
@@ -8153,7 +7911,7 @@ reading."
 "But a lady came to see me, a Mrs. Goodhue, one of your good sort, I
 suppose, and she preached me quite a sermon on the employment of
 time. She said I had a solemn admonition of Providence, and ought to
-devote myself entirely to religion. I had just begun to he interested
+devote myself entirely to religion. I had just begun to be interested
 in a bit of embroidery, but she frightened me out of it. But I can't
 bear such dreadfully good people, with faces a mile long."
 
@@ -8167,7 +7925,7 @@ things with which the room was full.
 
 "But I haven't any object," Miss Clifford objected, "unless it is to
 get through these tedious days somehow. Before I was taken ill my
-chief object was to make myself attractive to the people I met And
+chief object was to make myself attractive to the people I met. And
 the easiest way to do that was to dress becomingly and make myself
 look as well as I could."
 
@@ -8217,7 +7975,7 @@ but thought something would come of it."
 
 Miss Clifford made no reply. She sat with her head resting on her
 band, looking dreamily before her, a truly beautiful, but unconscious
-picture.. I too, began to reflect, that while I had really aimed to
+picture. I too, began to reflect, that while I had really aimed to
 make the most out of life, I had not done it methodically or
 intelligently.
 
@@ -8272,7 +8030,7 @@ I replied that my affairs lay chiefly in caring for and being with my
 children; to which she returned that she feared I should not suit
 her, as she had her own views concerning the training of children.
 She added, with condescension, that at all events she should expect
-in any case of difference (of judgment)between us, that I, being the
+in any case of difference (of judgment) between us, that I, being the
 younger and least experienced of the two, should always yield to her.
 She then went on to give me her views on the subject of nursery
 management.
@@ -8361,7 +8119,7 @@ This capped the climax! She declared that she had never been told
 before that she was no and did not know how to behave, and gave
 warning at once.
 
-I wish I could help running to tell Ernest all -these annoyances. It
+I wish I could help running to tell Ernest all these annoyances. It
 does no good, and only worries him. But how much of a woman's life is
 made up of such trials and provocations! and how easy is when on
 one's knees to bear them aright, and how far easier to bear them
@@ -8377,7 +8135,7 @@ Oh, that there were indeed magic in a spoken word!
 
 And do what I can, the money Ernest gives me will not hold out. He
 knows absolutely nothing about that hydra-headed monster, a
-household. I, have had to go back to sewing as furiously as ever. And
+household. I have had to go back to sewing as furiously as ever. And
 with the sewing the old pain in the side has come back, and the
 sharp, quick speech that I hate, and, that Ernest hates, and that
 everybody hates. I groan, being burdened, and am almost weary of my
@@ -8389,12 +8147,12 @@ have more time to accomplish what I must accomplish.
 How have I got into this slough? When was it that I came down from
 the Mount where I had seen the Lord, and came back to make these
 miserable, petty things as much my business as ever? Oh, these
-fluctuations in my religious life amaze me! I cannot, doubt that I am
+fluctuations in my religious life amaze me! I cannot doubt that I am
 really God's child; it would be dishonor to Him to doubt it. I cannot
 doubt that I have held as real communion with Him as with any earthly
 friend-and oh, it has been far sweeter!
 
-OCT. 20.-I made a parting visit to Mrs. Campbell to day, and, as
+OCT. 20.-I made a parting visit to Mrs. Campbell to-day, and, as
 usual, have come away strengthened and refreshed. She said all sorts
 of kind things to cheer and encourage me, and stimulated me to take
 up the burden of life cheerfully and patiently, just as it comes. She
@@ -8447,7 +8205,7 @@ passing out of the world. It seems as if God had compensated such
 turbulent, fiery natures as mine, by revealing Himself to them, for
 the terrible hours of shame and sorrow through which their sins and
 follies cause them to pass. I suffer far more than Helen does, suffer
-bitterly, painfully, but I enjoy tenfold more. For I know whom I have
+bitterly, painfully, but I enjoy ten-fold more. For I know whom I have
 believed, and I cannot doubt that I am truly united to Him. Helen is
 naturally very reserved, but by degrees she has come talk with me
 quite frankly. To-day as we sat together in the nursery, little
@@ -8459,7 +8217,7 @@ me?"
 
 He smiled, and shook his head.
 
-'"Well then, until you see him do it to me, never do it to your
+"Well then, until you see him do it to me, never do it to your
 sister. Men are gentle and polite to women, and little boys should be
 gentle and polite to little girls."
 
@@ -8471,7 +8229,7 @@ they could go up to bed unless one of us got a candle for them."
 
 "That, I suppose, is the reason then that Ernest expected me to wait
 upon him after we were married," I replied. "I was a little stiff
-about yielding 'to him, for besides mother's precepts, I was
+about yielding to him, for besides mother's precepts, I was
 influenced by my father's example. He was so courteous, treating her
 with as much respect as if she were a queen, and yet with as much
 love as if were always a girl. I naturally expected the like from my
@@ -8541,7 +8299,7 @@ the will of God."
 source of happiness as long as you live, whatever vicissitudes you
 may meet with. I thank you so much for what you have said. The fact
 is you have been brought up to carry religion into everything. But I
-was not. ~ My mother was as good as she was lovely, but I think she
+was not. My mother was as good as she was lovely, but I think she
 felt and taught us to feel, that we were to put it on as we did our
 Sunday clothes, and to wear it, as we did them, carefully and
 reverently, but with pretty long, grave faces. But you mix everything
@@ -8561,7 +8319,7 @@ to touch her heart!
 
 MARCH.-I know now, and glad I am! The sly little puss is purring at
 this moment in James' arms; at least I suppose she is, as I have
-discreetly come up to my room and left them to themselves So it seems
+discreetly come up to my room and left them to themselves. So it seems
 I have had all these worries about Lucy for naught. What made her so
 fond of James was simply the fact that a friend of his had looked on
 her with a favorable eye, regarding her as a very proper mother for
@@ -8620,7 +8378,7 @@ sudden transition from the most brilliant, joyous health, to a brief
 but fearful struggle for life, speedily followed by the awful mystery
 and stillness of death. Is it possible, I still ask myself, that four
 short days wrought an event whose consequences must run through
-endless years ?-- Poor mother! Poor Helen!-When it was all over, I
+endless years?--Poor mother! Poor Helen!--When it was all over, I
 do not know what to say of mother but that she behaved and quieted
 herself like a weaned child. Her sweet composure awed me; I dared
 not give way to my own vehement, terrible sorrow; in the presence of
@@ -8739,7 +8497,7 @@ Ernest nearer to me than ever, and I can see that this varied
 discipline has softened and sweetened his character. Besides, we have
 modified each other. Ernest is more demonstrative, more attentive to
 those little things that make the happiness of married life, and I am
-less childish, less vehement-I wish I could say less selfish, but
+less childish, less vehement--I wish I could say less selfish, but
 here I seem to have come to a standstill. But I do understand
 Ernest's trials in his profession far better than I did, and can feel
 and show some sympathy in them. Of course the life of a physician is
@@ -8757,7 +8515,7 @@ love my husband and children and perform for them, without let or
 hindrance, the sweet ideal duties of wife and mother, how content I
 should be to live always in this world! But what would become of me
 if I were not called, in the pursuit of these duties and in contact
-with real life, to bear restless nights, ill-health, unwelcome news,
+with real life, to bear "restless nights, ill-health, unwelcome news,
 the faults of servants, contempt, ingratitude of friends, my own
 failings, lowness of spirits, the struggle in overcoming my
 corruption, and a score of kindred trials!"
@@ -8803,7 +8561,7 @@ is exactly in her sphere: the calm dignity with which she reigns in
 her husband's house, and the moderation and self-control with which
 she guides his children, are really instructive. She has a baby of
 her own, and though it acts just like other babies and kicks,
-scratches, pulls. and cries when it is washed and dressed, she goes
+scratches, pulls and cries when it is washed and dressed, she goes
 through that process with a serenity and deliberation that I envy
 with all my might. Her predecessor in the nursery was all nerve and
 brain, and has left four children made of the same material behind
@@ -8850,7 +8608,7 @@ on my own sorrows as to lose sight of my relationship to Him. And
 then I asked myself what I could do to make the day less wearisome
 and sorrowful to Helen. She came, after a time, with her work to my
 room. The children took their good-by kisses and went off to school;
-Ernest took his, too, and set forth on his day's work, whi1e Daisy
+Ernest took his, too, and set forth on his day's work, while Daisy
 played quietly about the room.
 
 "Helen, dear," I ventured at last to begin "I want you to do me a
@@ -8922,11 +8680,11 @@ argue a sorrow away!"
 
 "You are so happy," she answered. "Ernest loves you so dearly, and is
 so proud of you, and you have such lovely children! I ought not to
-expect you to sympathize perfectly with my loneliness.
+expect you to sympathize perfectly with my loneliness."
 
 "Yes, I am happy," I said, after a pause; "but you must own, dear,
 that I have had my sorrows, too. Until you become a mother yourself,
-you cannot comprehend what a mother can suffer, riot merely for
+you cannot comprehend what a mother can suffer, not merely for
 herself, in losing her children, but in seeing their sufferings. I
 think I may say of my happiness that it rests on something higher and
 deeper than even Ernest and my children."
@@ -8941,7 +8699,7 @@ death of her first child were the happiest she had ever known. Mrs.
 Wentworth, whose husband was snatched from her almost without
 warning, and while using expressions of affection for her such as a
 lover addresses to his bride, said to me, with tears rolling down her
-cheeks, yet with a smile, I thank my God and Saviour that He has not
+cheeks, yet with a smile, 'I thank my God and Saviour that He has not
 forgotten and passed me by, but has counted me worthy to bear this
 sorrow for His sake.' And hear this passage from the life of Wesley,
 which I lighted on this morning:
@@ -8949,7 +8707,7 @@ which I lighted on this morning:
 "He visited one of his disciples, who was ill in bed and after having
 buried seven of her family in six months, had just heard that the
 eighth, her husband, whom she dearly loved, had been cast away at
-sea. 'I asked her,' he says, ' do you not fret at any of those
+sea. 'I asked her,' he says, 'do you not fret at any of those
 things?' She says, with a lovely smile, 'Oh, no! how can I fret at
 anything which is the will of God? Let Him take all beside, He has
 given me Himself. I love, I praise Him every moment.'"
@@ -8966,7 +8724,7 @@ had rich experience of what God could be to His children there, who
 can utter such testimonials to His honor, as those I have just
 repeated."
 
-"Katy,' Helen suddenly asked, "do you always submit to God's will
+"Katy," Helen suddenly asked, "do you always submit to God's will
 thus?"
 
 "In great things I do," I said. "What grieves me is that I am
@@ -9007,7 +8765,7 @@ from school, at least the boys did, and threw themselves upon me like
 men assaulting a fort. I have formed the habit of giving myself
 entirely to them at the proper moment, and now entered into their
 frolicsome mood as joyously as if I had never known a sorrow or lost
-an hour's sleep. At last they went off to their play- room, and Una
+an hour's sleep. At last they went off to their play-room, and Una
 settled down by my side to amuse Daisy, when Helen began again.
 
 "I should like to read that letter myself," she said. "Meanwhile I
@@ -9024,7 +8782,7 @@ children at the very moment when her own heart is sad. And it may be
 as religious an act for her to romp with them at the time as to pray
 with them at another."
 
-Helen now went away to her room with Dr Cabot's letter, which I
+Helen now went away to her room with Dr. Cabot's letter, which I
 silently prayed might bless her as it had blessed me. And then a
 jaded, disheartened mood came over me that made me feel that all I
 had been saying to her was but as sounding brass and a tinkling
@@ -9084,11 +8842,11 @@ I had kissed all the sweet, dear faces good-by, and returned to the
 kitchen, I felt sure that I had not been the perfect mother I want to
 be in all these little emergencies-yes, far from it. Bridget had let
 the milk I was going to use boil over, and finally burn up. I was
-annoyed and irritated, and already tired,. and did not see how I was
+annoyed and irritated, and already tired, and did not see how I was
 to get more, as Mary was cleaning the silver (to be sure, there is
 not much of it), and had other extra Saturday work to do. I thought
 Bridget might offer to run to the corner for it, though it isn't her
-business, hut she is not obliging, and seemed as sulky as if I had
+business, but she is not obliging, and seemed as sulky as if I had
 burned the milk, not she. "After all," I said to myself, "what does
 it signify, if Ernest gets no dessert? It isn't good for him, and how
 much precious time is wasted over just this one thing?" However, I
@@ -9111,8 +8869,8 @@ the children had left when they took their flight, and to make myself
 presentable at lunch. Then I began to be uneasy lest Ernest should
 not be punctual, and Mary be delayed; but he came just as the clock
 struck one. I ran joyfully to meet him, very glad now that I had
-something good to give him. We bad just got through lunch, and I was
-opening my mouth to tell Mary she might go, when the doorbell rang
+something good to give him. We had just got through lunch, and I was
+opening my mouth to tell Mary she might go, when the door-bell rang
 once more, and Mrs. Fry, of Jersey City, was announced. I told Mary
 to wait till I found whether she had lunched or not; no, she hadn't;
 had come to town to see friends off, was half famished, and would I
@@ -9124,7 +8882,7 @@ butter, nothing else, dear; now don't put yourself out.
 
 "Now be bright and animated, and like yourself," she whispered, "for
 I have brought these girls here on purpose to hear you talk, and they
-are prepared to fall in love with you on the spot"
+are prepared to fall in love with you on the spot."
 
 This speech sufficed to shut my mouth.
 
@@ -9133,9 +8891,9 @@ proved equal to a raid on a good many things besides bread and
 butter. Mrs. Fry said, after she had devoured nearly half a loaf of
 cake, that she would really try to eat a morsel more, which Ernest
 remarked, dryly, was a great triumph of mind over matter. As they
-talked and 'laughed and ate leisurely on, Mary stood looking the
+talked and laughed and ate leisurely on, Mary stood looking the
 picture of despair. At last I gave her a glance that said she might
-go, when a new visitor was announced-Mrs. Winthrop, from Brooklyn,
+go, when a new visitor was announced--Mrs. Winthrop, from Brooklyn,
 one of Ernest's patients a few years ago, when she lived here. She
 professed herself greatly indebted to him, and said she had come at
 this hour because she should make sure of seeing him. I tried to
@@ -9249,9 +9007,9 @@ and saw it fade and die. Only those who have suffered thus can
 appreciate the heart-soreness through which, no matter how outwardly
 cheerful I may be, I am always passing. But what then! Have I not ten
 thousand times made this my prayer, that in the words of Leighton, my
-will might become, identical with God's will."
+will might become, "identical with God's will."
 
-And shall He not take me at my word?" Just as I was writing these
+"And shall He not take me at my word?" Just as I was writing these
 words, my canary burst forth with a song so joyous that a song was
 put also into my mouth. Something seemed to say, this captive sings
 in his cage because it has never known liberty, and cannot regret a
@@ -9264,7 +9022,7 @@ sunshine in the shadiest places! I am sure that the boys are truly
 blessed by having a sister always at home to welcome them, and that
 their best manliness is appealed to by her helplessness.
 
-What this child is to me I cannot tell And yet, if the skillful and
+What this child is to me I cannot tell. And yet, if the skillful and
 kind Gardener should house this delicate plant before frosts come,
 should I dare to complain?
 
@@ -9299,7 +9057,7 @@ the ground we have often discussed together":
 "I.-How shall I offer my purely indifferent actions to God; walks,
 visits made and received, dress, little proprieties, such as washing
 the hands, etc.', the reading of books of history, business with
-which I am charged for my friends, other amusements, such -as
+which I am charged for my friends, other amusements, such as
 shopping, having clothes made, and equipages. I want to have some
 sort of prayer, or method of offering each of these things to God.
 
@@ -9331,7 +9089,7 @@ for each of these the elevation of the heart at the moment suffices.
 following one's own taste too much, I would add to this elevating of
 the heart a prayer to moderate myself and use precaution.
 
-"II-In prayer I cannot fix my mind, or I have intervals of time when
+"II.-In prayer I cannot fix my mind, or I have intervals of time when
 it is elsewhere and it is often distracted for a long time before I
 perceive it. I want to find some means of becoming its master.
 
@@ -9344,7 +9102,7 @@ recollection is difficult to a man so long dissipated and far from
 God?
 
 "III.-I wish to know if it is best to record, on my tablets, the
-faults and the sins I have committed, in order not to rum the risk of
+faults and the sins I have committed, in order not to run the risk of
 forgetting them. I excite in myself to repentance for my faults as
 much as I can; but I have never felt any real grief on account of
 them. When I examine myself at night, I see persons far more perfect
@@ -9363,8 +9121,8 @@ gives it when it pleases Him. True and essential conversion of the
 heart consists in a full will to sacrifice all to God. What I call
 full will is a fixed immovable disposition of the will to resume none
 of the voluntary affections which may alter the purity of the love to
-God and to abandon itself to all the crosses which it will -perhaps
--be necessary to bear, in order to accomplish the will of God always
+God and to abandon itself to all the crosses which it will--perhaps--be
+necessary to bear, in order to accomplish the will of God always
 and in all things. As to sorrow for sin, when one has it, one ought
 to return thanks for it; when one perceives it to be wanting, one
 should humble one's self peacefully before God without trying to
@@ -9393,7 +9151,7 @@ mere expressions of feeling. The mind has no part in them, or next to
 none; one keeps repeating the same words. It is not so much a variety
 of thoughts that one seeks in intercourse with a friend, as a certain
 repose and correspondence of heart. It is thus we are with God, who
-does not disdain to be our tenderest, most cordial,-most familiar,
+does not disdain to be our tenderest, most cordial, most familiar,
 most intimate friend. A word, a sigh, a sentiment, says all to God;
 it is not always necessary to have transports of sensible tenderness;
 a will all naked and dry, without life, without vivacity, without
@@ -9458,7 +9216,7 @@ Miss Clifford said that the whole idea of giving one's self to God in
 such little daily acts as visiting, shopping, and the like, was
 entirely new to her.
 
-"But fancy," she went on, her beautiful face lighted up with-
+"But fancy," she went on, her beautiful face lighted up with
 enthusiasm, "what a blessed life that must be, when the base things
 of this world and things that are despised, are so many links to the
 invisible world and to the things God has chosen!"
@@ -9476,7 +9234,7 @@ something new about Him, always loving Him better and better. To be
 sure, our souls are sick, and of themselves can't keep 'ever on the
 wing,' but I have had some delightful thoughts of late from just
 hearing the title of a book, 'God's method with the maladies of the
-soul.' It gives one such a conception of the seeming ills of life ;
+soul.' It gives one such a conception of the seeming ills of life;
 to think of Him as our Physician, the ills all remedies, the
 deprivations only a wholesome regimen, the losses all gains. Why, as
 I study this individual case and that, see how patiently and
@@ -9492,13 +9250,13 @@ thinking, till I saw the emptiness and shallowness of all in which I
 had hitherto been involved. And then He sent you and your mother to
 show me the reality of life, and to reveal to me my invisible,
 unknown Physician. Can I love Him with half my heart? Can I be asking
-questions as to how much I am to pay towards the debt I owe Him ?"
+questions as to how much I am to pay towards the debt I owe Him?"
 
 By this time Helen's work had fallen from her hands and tears were in
 her eyes.
 
 "How I thank you," she said softly, "for what you have said. You have
-interpreted life to me! You have given .me a new conception of my God
+interpreted life to me! You have given me a new conception of my God
 and Saviour!"
 
 Miss Clifford seemed quenched and humbled by these words; her
@@ -9519,9 +9277,9 @@ given me to drink of the cup of sorrow and bereavement.
 MAY 24.-I read to Ernest the extract from Fenelon which has made such
 an impression on me.
 
-"Every business man, in short ;every man leading an active life,
+"Every business man, in short every man leading an active life,
 ought to read that," he said. "We should have a new order of things
-as the result Instead of fancying that our ordinary daily work was
+as the result. Instead of fancying that our ordinary daily work was
 one thing and our religion quite another thing, we should transmute
 our drudgery into acts of worship. Instead of going to
 prayer-meetings to get into a 'good frame' we should live in a good
@@ -9530,13 +9288,13 @@ and praise would be only another form for expressing the love and
 faith and obedience we had been exercising amid the pressure of
 business."
 
-"I only wish I had understood this years ago," I said." I have made
+"I only wish I had understood this years ago," I said. "I have made
 prayer too much of a luxury, and have often inwardly chafed and
 fretted when the care of my children, at times, made it utterly
 impossible to leave them for private devotion-when they have been
 sick, for instance, or in other like emergencies. I reasoned this
 way: 'Here is a special demand on my patience, and I am naturally
-impatient I must have time to go away and entreat the Lord to equip
+impatient. I must have time to go away and entreat the Lord to equip
 me for this conflict.' But I see now that the simple act of cheerful
 acceptance of the duty imposed and the solace and support withdrawn
 would have united me more fully to Christ than the highest enjoyment
@@ -9549,7 +9307,7 @@ we learn how to live?"
 
 "I am not sure," he returned, "that we do not learn as fast as we are
 willing to learn. God does not force instruction upon us, but when we
-say, as Luther did, 'More light, Lord, more light,'- the light
+say, as Luther did, 'More light, Lord, more light,'--the light
 comes."
 
 I questioned myself after he had gone as to whether this could be
@@ -9571,7 +9329,7 @@ She spoke freely about death, and said Ernest had promised to take
 charge of her funeral, and to see that she was buried by the side of
 her husband.
 
-"You see, my dear,' she added, with a smile, "though I am expecting
+"You see, my dear," she added, with a smile, "though I am expecting
 to be so soon a saint in heaven, I am a human being still, with human
 weaknesses. What can it really matter where this weary old body is
 laid away, when I have done with it, and gone and left it forever?
@@ -9677,7 +9435,7 @@ all times, and in all circumstances, what he was in his best moments
 in the progressive stages of his life. There were seasons, all along
 his course, when he loved God supremely; when he embraced the cross
 joyfully and penitently; when he held intimate communion with Christ,
-and loved his neighbor as himself But he was always in terror, lest
+and loved his neighbor as himself. But he was always in terror, lest
 under the force of temptation, all this should give place to deadness
 and dullness, when he should chafe and rebel in the hour of trial,
 and judge his fellow-man with a harsh and bitter judgment, and give
@@ -9690,19 +9448,19 @@ when that is called in question. And the will of God becomes so dear
 to him that he loves it best when it 'triumphs at his cost.'
 
 "Once he only prayed at set times and seasons, and idolized good
-frames and fervent emotions. N9w he prays without ceasing, and
+frames and fervent emotions. Now he prays without ceasing, and
 whether on the mount or down in the depths depends wholly upon His
 Saviour.
 
 "His old self-confidence has now given place to child-like humility
 that will not let him take a step alone, and the sweet peace that is
 now habitual to him combined with the sense of his own imperfections,
-fills him with love to. his fellow-man. He hears and believes and
+fills him with love to his fellow-man. He hears and believes and
 hopes and endures all things and thinketh no evil. The tones of his
 voice, the very expression of his countenance, become changed, love
 now controlling where human passions held sway. In short, he is not
 only a new creature in Jesus Christ, but the habitual and blessed
-consciousness that this is so.
+consciousness that this is so."
 
 These words were spoken deliberately and with reflection.
 
@@ -9722,7 +9480,7 @@ with those who have come out of great tribulation, whose robes have
 been made white in the blood of the Lamb, and who are before the
 throne of God, and serve Him day and night in His temple, to hunger
 no more, neither thirst any more, for the Lamb which is in the midst
-of the .throne shall lead them into living fountains of waters; and
+of the throne shall lead them into living fountains of waters; and
 God shall wipe away all tears from their eyes.
 
 MAY 25.-We were talking of Mrs. Campbell, and of her blessed life and
@@ -9734,31 +9492,27 @@ told her that when I reflected on my want of submission to God's
 will, I doubted whether I really could be His child. She said, in her
 gentle, sweet way-:
 
-"Would you venture to resist His will, if you could? Would you really
-have your dear James back again in this world, if could?'
-
-"I would, I certainly would," I said.
-
-"She returned, ' I sometimes find it a help, when dull and cramped in
-my devotions, to say to myself : Suppose Christ should now appear
-before you, and you could see Him as He appeared to His disciples on
-earth, what would you say to Him? This brings Him near, and I say
-what I would say if He were visibly present. I do the same when a new
-sorrow threatens me. I imagine my Redeemer as coming personally to
-say to me, "For your sake I am a man of sorrows and acquainted with
-grief; now for My sake give me this child, bear this burden, submit
-to this loss." Can I refuse Him? Now, dear, he has really come thus
-to you, and asked you to show your love to Him, your faith in Him, by
-giving Him the most precious of your treasures. If He were here at
-this moment, and offered to restore it to you, would you dare to say,
-"Yea, Lord, I know, far better than Thou dost, what is good for him
-and good for me; I will have him return to me, cost what it may; in
-this world of uncertainties and disappointments I shall be sure of
-happiness in his society, and he will enjoy more here on earth with
-me than he could enjoy in the companionship of saints and angels and
-of the Lord Himself in heaven." Could you dare to say this?' Oh,
-Katy, what straits she drove me into! No, I could not dare to say
-that!"'
+'Would you venture to resist His will, if you could? Would you really
+have your dear James back again in this world, if you could?" 'I would,
+I certainly would,' I said. She returned, 'I sometimes find it a help,
+when dull and cramped in my devotions, to say to myself: Suppose Christ
+should now appear before you, and you could see Him as He appeared to
+His disciples on earth, what would you say to Him? This brings Him near,
+and I say what I would say if He were visibly present. I do the same
+when a new sorrow threatens me. I imagine my Redeemer as coming
+personally to say to me, "For your sake I am a man of sorrows and
+acquainted with grief; now for My sake give me this child, bear this
+burden, submit to this loss." Can I refuse Him? Now, dear, he has really
+come thus to you, and asked you to show your love to Him, your faith in
+Him, by giving Him the most precious of your treasures. If He were here
+at this moment, and offered to restore it to you, would you dare to say,
+"Yea, Lord, I know, far better than Thou dost, what is good for him and
+good for me; I will have him return to me, cost what it may; in this
+world of uncertainties and disappointments I shall be sure of happiness
+in his society, and he will enjoy more here on earth with me than he
+could enjoy in the companionship of saints and angels and of the Lord
+Himself in heaven." Could you dare to say this?' Oh, Katy, what straits
+she drove me into! No, I could not dare to say that!"
 
 "Then, my darling little sister" I cried, "you will give up--this
 struggle? You will let God do what He will with His own?"
@@ -9792,17 +9546,17 @@ began in chorus:
 
 She bore it all with her usual gentleness; or rather with a positive
 sweetness that captivated them as her negative patience had never
-done. I said nothing to her, nor did she to me till late In the day,
+done. I said nothing to her, nor did she to me till late in the day,
 when she came to me, and said:
 
 "Katy, God taught you what to say. All these years I have been
 tormenting myself with doubts, as to whether I could be His child
-while so unable to say, Thy will be done. If you had said,' 'Why,
+while so unable to say, Thy will be done. If you had said, 'Why,
 yes, you must be His child, for you professed yourself one a long
 time ago, and ever since have lived like one,' I should have remained
-as wretched as ever As it is, a mountain has been rolled off, my
+as wretched as ever. As it is, a mountain has been rolled off, my
 heart. Yes, if I was not His child yesterday, I can become one
-to-day; if I did not love Him then, I can begin now"
+to-day; if I did not love Him then, I can begin now."
 
 I do not doubt that, she was His child, yesterday and last year, and
 years ago. But let her think, what she pleases. A new life is opening
@@ -9815,7 +9569,7 @@ prospered with us to such a degree that he has been extravagant
 enough to give me the use, for the summer, of a bonnie little nag and
 an antiquated vehicle, and I have learned to drive. To be sure I
 broke one of the shafts of the poor old thing the first time I
-ventured forth alone, and the other day -nearly upset my cargo of
+ventured forth alone, and the other day--nearly upset my cargo of
 children in a pond where I was silly enough to undertake to water my
 horse. But Ernest, as usual, had patience with me and begged me to
 spend as much time as possible in driving about with the children. It
@@ -9852,7 +9606,7 @@ Ernest has done, and if he had married a woman as calm, as
 undemonstrative as himself what a strange home his would have been
 for the nurture of little children? But the heart was in him, and
 only wanted to be waked up, and my life has called forth music from
-his., Ah, there are no partings and meetings now that leave discords
+his. Ah, there are no partings and meetings now that leave discords
 in the remembrance, no neglected birthdays, no forgotten courtesies.
 It is beautiful to see the thoughtful brow relax in presence of wife
 and children, and to know that ours is, at last, the happy home I so
@@ -9882,8 +9636,8 @@ off the mortgage on the farm."
 tearing hurry about the mortgage and that he'd give his right hand to
 have a couple of boys like yours."
 
-"Well?" - "Why, I said, supposing we had a couple, of boys, they
-wou1dn't be like yours, dressed to look genteel and to have their
+"Well?"--"Why, I said, supposing we had a couple, of boys, they
+wouldn't be like yours, dressed to look genteel and to have their
 genteel ways but a pair of wild colts, into everything, tearing their
 clothes off their backs, and wasting faster than we could earn. He
 said 'twasn't the clothes, 'twas the flesh and blood he wanted, and
@@ -9945,7 +9699,7 @@ and no more. The comfort of sleeping in peace, of having a little
 time to read, and to keep on with my music; strength with which to
 look after Ernest's poor people when they are sick; and, to tell the
 truth, strength to be bright and fresh and lovable to him--all these
-little joys have been growing very precious to me, and now-I must
+little joys have been growing very precious to me, and now--I must
 give them up. I want to do it cheerfully and without a frown. But I
 find I love to have my own way, and that at the very moment I was
 asking God to appoint my work for me, I was secretly marking it out
@@ -9957,7 +9711,7 @@ I can say with a smile, "Not my will! Not my will! But Thine!"
 
 We have been, this winter, one of the happiest families on earth. Our
 love to each other, Ernest's and mine, though not perfect-nothing on
-earth is-has grown less selfish, more Christlike; it has been
+earth is-has grown less selfish, more Christ-like; it has been
 sanctified by prayer and by the sorrows we have borne together. Then
 the children have been well and happy, and the source of almost
 unmitigated joy and comfort. And Helen's presence in this home, her
@@ -9970,7 +9724,7 @@ with the fear that she was not a child of God, and laid aside the
 sombre garments she had worn so long, she has had a peace that has
 hardly known a cloud. She says, in a note written me about the time:
 
-I want you to know, my darling sister, that the despondency that made
+"I want you to know, my darling sister, that the despondency that made
 my affliction so hard to bear fled before those words of yours which,
 as I have already told you, God taught you to speak. I do not know
 whether I was really His child, at the time, or not. I had certainly
@@ -9998,7 +9752,7 @@ God, I should begin to love Him now, light broke in upon my soul; I
 gave myself to Him that instant and as soon as I could get away by
 myself I fell upon my knees and gave myself up to the sense of His
 sovereignty for the first time in my life. Then, too, I looked at my
-'light affliction,' and at the 'weight of glory ' side by side, and
+'light affliction,' and at the 'weight of glory' side by side, and
 thanked Him that through the one He had revealed to me the other.
 Katy, I know the human heart is deceitful above all things, but I
 think it would be a dishonor to God to doubt that He then revealed
@@ -10053,7 +9807,7 @@ gaily up the walk with him in mine. "If this splendid fellow doesn't
 convert her nothing will," I said to myself. At that instant what
 should I see but Mrs. Brown, running to meet me with a boy in her
 arms exactly like Mr. Brown, only not quite six feet long, and not
-sun-burnt.
+sunburnt.
 
 "There!" I cried, holding up my little old man.
 
@@ -10098,7 +9852,7 @@ do."
 
 "Mamma," Una whispered, as he went off his facsimile, to kiss it
 rapturously, behind a woodpile, "do you think Mrs. Brown's baby very
-pretty?
+pretty?"
 
 Which was so mild a way of suggesting the fact of the case, that I
 kissed her without trying to hide my amusement.
@@ -10117,14 +9871,14 @@ think I could stand that. People ask me how it happens that my
 children are all so promptly obedient and so happy. As if it chanced
 that some parents have such children, or chanced that some have not!
 I am afraid it is only too true, as some one has remarked, that "this
-is the age of obedient parents!"' What then will be the future of
+is the age of obedient parents!" What then will be the future of
 their children? How can they yield to God who have never been taught
 to yield to human authority? And how well fitted will they be to rule
 their own households who have never learned to rule themselves?
 
 AUG. 31.-This has been one of those cold, dismal, rainy days which
 are not infrequent during the month of August. So the children have
-been obliged to give up the open air, of which. they are so fond, and
+been obliged to give up the open air, of which they are so fond, and
 fall back upon what entertainment could be found within the house. I
 have read to them the little journal I kept during the whole life of
 the brother I am not willing they should forget. His quaint and
@@ -10139,13 +9893,13 @@ precious life.
 How thankful I am that I kept this journal, and that I have almost as
 charming ones about most of my other children! What I speedily forgot
 amid the pressure of cares and of new events is safely written down,
-and. will be the source of endless pleasure to them long after the
-hand that wrote has ceased from its .labors, and lies inactive and at
+and will be the source of endless pleasure to them long after the
+hand that wrote has ceased from its labors, and lies inactive and at
 rest.
 
 Ah, it is a blessed thing to be a mother!
 
-SEPTEMBER 1-This baby of mine, is certainly the sweetest and best I
+SEPTEMBER 1.-This baby of mine, is certainly the sweetest and best I
 ever had I feel an inexpressible tenderness for it, which I cannot
 quite explain to myself, for I have loved them all dearly, most
 dearly. Perhaps it is so with all mothers, perhaps they all grow
@@ -10156,7 +9910,7 @@ who will so soon pass forth to fight the battle of life, each one
 waging an invisible warfare against invisible foes. How thankfully we
 would fight it for them, if we might!
 
-SEPTEMBER 20.-. The mornings and evenings are very cool now, while in
+SEPTEMBER 20.-The mornings and evenings are very cool now, while in
 the middle of the day it is quite hot. Ernest comes to see us very
 often, under the pretense that he can't trust me with so young a baby
 ! He is so tender and thoughtful, and spoils me so, that this world
@@ -10165,7 +9919,7 @@ so happy in Ernest, or in my children, as to forget for one instant
 that I am a pilgrim and a stranger on earth.
 
 EVENING.-There is no danger that I shall. Ernest suddenly made his
-appearance tonight, and in a great burst of distress quite unlike
+appearance to-night, and in a great burst of distress quite unlike
 anything I ever saw in him, revealed to me that he had been feeling
 the greatest anxiety about me ever since the baby came. It is all
 nonsense. I cough, to be sure; but that it is owing to the varying
@@ -10184,22 +9938,22 @@ will not choose, I dare not.
 My married life has been a beautiful one. It is true that sin and
 folly, and sickness and sorrow, have marred its perfection, but it
 has been adorned by a love which has never faltered. My faults have
-never alienated Ernest.; his faults, for like other human beings he
+never alienated Ernest; his faults, for like other human beings he
 has them, have never overcome my love to him. This has been the gift
-of God in answer to our constant prayer, that .whatever other
+of God in answer to our constant prayer, that whatever other
 bereavement we might have to suffer, we might never be bereft of this
-benediction. It has been the glad secret of' a happy marriage, and I
+benediction. It has been the glad secret of a happy marriage, and I
 wish I could teach it to every human being who enters upon a state
 that must bring with it the depth of misery, or life's most sacred
 and mysterious joy.
 
-OCTOBER 6.- Ernest has let me stay here to see the autumnal foliage
+OCTOBER 6.-Ernest has let me stay here to see the autumnal foliage
 in its ravishing beauty for the first, perhaps for the last, time.
 The woods and fields and groves are lighting up my very soul! It
 seems as if autumn had caught the inspiration and the glow of summer,
-had hidden its floral beauty, its gorgeous sunsets and its bow of.
+had hidden its floral beauty, its gorgeous sunsets and its bow of
 promise in its heart of hearts, and was now flashing it forth upon
-'the world with a lavish and opulent hand. I can hardly tear myself
+the world with a lavish and opulent hand. I can hardly tear myself
 away, and return to the prose of city life. But Ernest has come for
 us, and is eager to get us home before colder weather. I laugh at his
 anxiety about his old wife. Why need he fancy that this trifling
@@ -10227,14 +9981,14 @@ JUNE 1, 1858.-I wrote that seven years ago, little dreaming how long
 it, would be before I should use a pen. Seven happy years ago!
 
 I suppose that some who have known what my outward life has been
-during' this period would think of me as a mere object of pity. There
+during this period would think of me as a mere object of pity. There
 has certainly been suffering and deprivation enough to justify the
 sympathy of my dear husband and children and the large circle of
 friends who have rallied about us. How little we knew we had so many!
 
 God has dealt very tenderly with me. I was not stricken down by
 sudden disease, nor were the things I delighted in all taken away at
-once There was a gradual loss of strength and gradual increase of
+once. There was a gradual loss of strength and gradual increase of
 suffering, and it was only by degrees that I was asked to give up the
 employments in which I'd delighted, my household duties, my visits to
 the sick and suffering, the society of beloved friends. Perhaps
@@ -10324,7 +10078,7 @@ life and vigor but stands in her lot and place doing what she can,
 suffering what she must, with a meekness that makes her lovely in my
 eyes, and that I am sure unites her closely to Christ.
 
-JUNE 27 .-It was Raymond's turn to stay with me today. He opened his
+JUNE 27.-It was Raymond's turn to stay with me to-day. He opened his
 heart to me more freely than he had ever done before.
 
 "Mamma," he began, "if papa is willing, I have made up my mind-that
@@ -10332,9 +10086,9 @@ is to say if I get decently good-to go on a mission."
 
 I said playfully:
 
-"And mamma's consent is not to be asked ?"
+"And mamma's consent is not to be asked?"
 
-"No," he said, "getting hold of what there is left of my hand. "I
+"No," he said, getting hold of what there is left of my hand. "I
 know you wouldn't say a word. Don't you remember telling me once when
 I was a little boy that I might go and welcome?"
 
@@ -10358,10 +10112,10 @@ his wishes.
 yourself to Him. If He can make you useful in your own, or in other
 lands, I bless His name. Whether I live to see you a man, or not, I
 hope you will work in the Lord's vineyard, wherever He calls. I never
-asked anything but usefulness, in all my prayers for you; never once.
+asked anything but usefulness, in all my prayers for you; never once."
 His eyes filled with tears; he kissed me and walked away to the
 window to compose himself. My poor, dear, lovable, loving boy! He has
-all his mother's trials and struggles to contend with ;but what
+all his mother's trials and struggles to contend with; but what
 matter it if they bring him the same peace?
 
 JUNE 30.--Everybody wonders to see me once more interested in my
@@ -10377,7 +10131,7 @@ heart with seeking sympathy in its unconscious pages nor do I believe
 it well to go on analyzing it as I have done. I have had large
 experience of both joy and sorrow; I have the nakedness and the
 emptiness and I have seen the beauty and sweetness of life. What I
-say now, let me say to Jesus What time and strength I used to spend
+say now, let me say to Jesus. What time and strength I used to spend
 in writing here, let me spend in praying for all men, for all
 sufferers who are out of the way, for all whom I love. And their name
 is Legion for I love everybody.
@@ -10439,7 +10193,7 @@ solaces other lives.
     The glory of Thy light to find
     In darkest spots a home.
 
-    Oh happy. happy that I am!
+    Oh happy, happy that I am!
     If thou canst be, O faith
     The treasure that thou art in life
     What wilt thou be in death?
@@ -10455,27 +10209,402 @@ before, we met, in one of the loneliest parts of that solitary region
 two well-dressed women, one of whom said to us by way of greeting,
 "What, you are stepping westward?"
 
-"What, you are stepping westward?" "Yea." --'Twould be a wildish
-destiny If we who thus together roam In a strange land and far from
-home Were in this place the guests of chance: Yet who would stop, or
-fear to advance, Though home or shelter he had none, With such a sky
-to lead him on? The dewy ground was dark and cold; Behind, all gloomy
-to behold: And stepping westward seemed to be A kind of heavenly
-destiny: I liked the greeting; 'twas a sound Of something without
-place and bound, And seemed to give me spiritual right To travel
-through that region bright. The voice was soft and she who spake Was
-walking by her native lake: The salutation had to me The very sound
-of courtesy: Its power was felt; and while my eye Was fixed upon the
-glowing sky, The echo of the voice enwrought A human sweetness with
-the thought Of traveling through the world that lay Before me in my
-endless way. --WORDSWORTH.
+    "What, you are stepping westward?"
+    "Yea."--'Twould be a wildish destiny
+    If we who thus together roam
+    In a strange land and far from home
+    Were in this place the guests of chance:
+    Yet who would stop, or fear to advance,
+    Though home or shelter he had none,
+    With such a sky to lead him on?
+    The dewy ground was dark and cold;
+    Behind, all gloomy to behold:
+    And stepping westward seemed to be
+    A kind of heavenly destiny:
+    I liked the greeting; 'twas a sound
+    Of something without place and bound,
+    And seemed to give me spiritual right
+    To travel through that region bright.
+    The voice was soft and she who spake
+    Was walking by her native lake:
+    The salutation had to me
+    The very sound of courtesy:
+    Its power was felt; and while my eye
+    Was fixed upon the glowing sky,
+    The echo of the voice enwrought
+    A human sweetness with the thought
+    Of traveling through the world that lay
+    Before me in my endless way.--WORDSWORTH.
+
 
 The End
 
 
 
 
-End of the Project Gutenberg Etext of Stepping Heavenward
-by Mrs. E. Prentiss
 
 
+
+
+
+End of the Project Gutenberg EBook of Stepping Heavenward, by Mrs. E. Prentiss
+
+*** END OF THIS PROJECT GUTENBERG EBOOK STEPPING HEAVENWARD ***
+
+***** This file should be named 2515.txt or 2515.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/5/1/2515/
+
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
